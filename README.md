@@ -6,7 +6,14 @@
 
 This project will be a **constructed** international **foreign** language that can be easily understood and spoken by everyone.
 
-# Introduction
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Name of the Language](#name-of-the-language)
+- [Core Values](#core-values)
+- [Sounds](#sounds)
+
+## Introduction
 
 Hello folks. As of today, I am starting a very special project.
 
@@ -14,15 +21,15 @@ I will take steps to create an **International Foreign Language**. Here I used t
 
 First, I will do the necessary research and then apply them to the new language itself. The reason why this project will be special is that it will be developed in a digital environment in accordance with today's dynamics. I don't know how many of you are Software Engineers, but I'm talking about a taste like a software library. You know, you develop the project as open source, you follow the semantic versioning so that the people who follow the project know what's going on, etc.
 
-# Name of the Language
+## Name of the Language
 
 I haven't decided what to name it yet. However, I have a few possibilities in mind. I actually want it to be named when the first version of the language is released. It's gonna be interesting :)
 
-# Copyright
+## Copyright
 
 Futuristic Language © 2022, Made with ♥ by Bahrican Akkoyun.
 
-# License
+## License
 
 The content of this project, which is result of the language itself, is licensed under CC BY-SA 4.0. To view a copy of this license, see [LICENSE.md](LICENSE.md) or visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
 
