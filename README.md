@@ -13,7 +13,8 @@ This project will be a **constructed** International **Foreign** Language that c
 - [Core Values](#core-values)
   - [Is there an order of importance for the core values we mentioned?](#is-there-an-order-of-importance-for-the-core-values-we-mentioned)
   - [Most Important Aspect: Evolvable Language](#most-important-aspect-evolvable-language)
-- [Sounds](#sounds)
+- [Copyright](#copyright)
+- [License](#license)
 
 # Introduction
 
@@ -69,6 +70,6 @@ Futuristic Language © 2022, Made with ♥ by Bahrican Akkoyun.
 
 # License
 
-The content of this project, which is result of the language itself, is licensed under CC BY-SA 4.0. To view a copy of this license, see [LICENSE.md](LICENSE.md) or visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
+The content of this project, which is **the result of the language**, is licensed under CC BY-SA 4.0 where you can easily **share** and/or **adapt** the work. To view a copy of this license, see [LICENSE.md](LICENSE.md) or visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
 
-However, the language itself, can't be copyrighted (nor I want it to be) by its nature. So I kindly ask you to SPREAD THE WORD.
+Also, **the language itself**, can't be copyrighted (nor I want it to be) by its nature. So I kindly ask you to **SPREAD THE WORD**.
