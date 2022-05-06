@@ -13,7 +13,6 @@ This project will be a **constructed** International **Foreign** Language that c
 - [Core Values](#core-values)
   - [Is there an order of importance for the core values we mentioned?](#is-there-an-order-of-importance-for-the-core-values-we-mentioned)
   - [Most Important Aspect: Evolvable Language](#most-important-aspect-evolvable-language)
-- [Copyright](#copyright)
 - [License](#license)
 
 # Introduction
@@ -26,7 +25,7 @@ First, I will do the necessary research and then apply them to the new language 
 
 # Name of the Language
 
-I haven't decided what to name it yet. However, I have a few possibilities in mind. I actually want it to be named when the first version of the language is released. It's gonna be interesting :)
+I haven't decided what to name it yet. However, I have a few possibilities in mind. I actually want it to be named when the first stable version of the language is released. It's gonna be interesting :)
 
 # Core Values
 
@@ -64,12 +63,10 @@ But they are also listed in order of importance. In other words, if there is a c
 
 Not representing this as a core value. However, it is an asset that everyone should have in mind. **Core values cannot be changed** under any circumstances, but everything else **can be changed, developed, or dropped, provided the core values are adhered to**. Because even if a language is artificially constructed, it needs to live and evolve like a living organism. This will ensure the **continuity of the language**.
 
-# Copyright
-
-Futuristic Language © 2022, Made with ♥ by Bahrican Akkoyun.
-
 # License
 
-The content of this project, which is **the result of the language**, is licensed under CC BY-SA 4.0 where you can easily **share** and/or **adapt** the work. To view a copy of this license, see [LICENSE.md](LICENSE.md) or visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
+This work, made with ♥ by Bahrican Akkoyun is licensed under CC BY-SA 4.0.
 
-Also, **the language itself**, can't be copyrighted (nor I want it to be) by its nature. So I kindly ask you to **SPREAD THE WORD**.
+You can **share** and/or **adapt** the work under the certain terms. To view a copy of this license, see [LICENSE.md](LICENSE.md) or visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
+
+So I kindly ask you to **SPREAD THE WORD**.
