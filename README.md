@@ -67,6 +67,6 @@ Not representing this as a core value. However, it is an asset that everyone sho
 
 This work, made with ♥ by Bahrican Akkoyun is licensed under CC BY-SA 4.0.
 
-You can **share** and/or **adapt** the work under the certain terms. To view a copy of this license, see [LICENSE.md](LICENSE.md) or visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
+You can **adapt** and/or **share** the work under the certain terms. To view a copy of this license, see [LICENSE.md](LICENSE.md) or visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
 
 So I kindly ask you to **SPREAD THE WORD**.
