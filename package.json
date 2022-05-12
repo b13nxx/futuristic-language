@@ -1,5 +1,29 @@
 {
   "name": "futuristic-language",
   "version": "0.0.1-alpha",
-  "license": "CC-BY-SA-4.0"
+  "license": "(MIT-0 AND CC-BY-SA-4.0)",
+  "scripts": {
+    "build:dict": "gulp buildDictionary",
+    "build:wordlist": "gulp buildWordList"
+  },
+  "devDependencies": {
+    "@types/gulp": "^4.0.9",
+    "@types/minimist": "^1.2.2",
+    "@types/node": "^17.0.31",
+    "@types/papaparse": "^5.3.2",
+    "@types/signale": "^1.4.4",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10",
+    "gulp": "^4.0.2",
+    "iso-639-1": "^2.1.13",
+    "minimist": "^1.2.6",
+    "papaparse": "^5.3.2",
+    "signale": "^1.4.0",
+    "ts-node": "^10.7.0",
+    "ts-standard": "^11.0.0",
+    "tsconfig-paths": "^4.0.0",
+    "tsconfigs": "^5.0.0",
+    "typescript": "^4.6.4"
+  },
+  "packageManager": "yarn@3.2.0"
 }

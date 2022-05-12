@@ -1,0 +1,15 @@
+{
+  "extends": "tsconfigs/nodejs-executable",
+  "compilerOptions": {
+    "outDir": "build",
+    "module": "CommonJS",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "baseUrl": "./"
+  },
+  "exclude": ["node_modules"],
+  "ts-node": {
+    "require": ["tsconfig-paths/register"]
+  }
+}

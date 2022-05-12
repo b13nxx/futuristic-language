@@ -65,8 +65,8 @@ Not representing this as a core value. However, it is an asset that everyone sho
 
 # License
 
-The content of this project, made with ♥ by Bahrican Akkoyun, is licensed under CC BY-SA 4.0.
+**Copyright © 2022, made with ♥ by Bahrican Akkoyun.**
 
-You can **adapt** and/or **share** the work under the certain terms. To view a copy of this license, see [LICENSE.md](LICENSE.md) or visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
+All `software code` of this project is licensed under **MIT-0**. To view a copy of this license, visit [LICENSE.md](LICENSE.md). All `non-software content` of this project is licensed under **CC BY-SA 4.0**. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
 
 So I kindly ask you to **SPREAD THE WORD**.
