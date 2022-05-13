@@ -122,7 +122,7 @@ const DictionaryGenerator = {
           const outputWord = WordProcessor.transformWord(line.word, line.type)
 
           writeStream.write(
-              `|**${outputWord}**|/${WordProcessor.getPronunciation(outputWord)}/|[🎧](${WordProcessor.getAudio(outputWord)})|${line.word}|${
+              `|**${outputWord}**|/${WordProcessor.getPronunciation(outputWord)}/|[🍕](${WordProcessor.getAudio(outputWord, 'Giorgio')}) [🍸](${WordProcessor.getAudio(outputWord, 'Jan')})|${line.word}|${
                 line.type
               }|${meanings.length > 1 ? `<ol><li>${meanings.join('</li><li>')}</li></ol>` : meanings[0]}|\n`
           )
