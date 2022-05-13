@@ -67,6 +67,6 @@ Not representing this as a core value. However, it is an asset that everyone sho
 
 **Copyright © 2022, made with ♥ by Bahrican Akkoyun.**
 
-All `software code` of this project is licensed under **MIT-0**. To view a copy of this license, visit [LICENSE.md](LICENSE.md). All `non-software content` of this project is licensed under **CC BY-SA 4.0**. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0).
+All `non-software content` of this project is licensed under **CC BY-SA 4.0**. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0). All `software code` of this project is licensed under **MIT-0**. To view a copy of this license, visit [LICENSE.md](LICENSE.md).
 
 So I kindly ask you to **SPREAD THE WORD**.
