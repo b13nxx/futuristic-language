@@ -11,11 +11,20 @@ import _ from 'lodash'
 import WordProcessor from '@/modules/WordProcessor/WordProcessor'
 
 export type DefinitionTypes = 'noun' | 'verb' | 'adjective' | 'adverb' | 'preposition' | 'postposition' | 'conjunction' | 'interjection' | 'pronoun' | 'article' | 'particle' | 'prefix' | 'suffix' | 'abbreviation' | 'acronym' | 'idiom' | 'other'
-export interface DictionaryDefinition {
+interface Definition {
   type: DefinitionTypes
   meanings: string[]
 }
-
+interface CsvEntry {
+  word: string
+  type: DefinitionTypes
+  meanings: string
+}
+interface DictionaryEntry extends CsvEntry{
+  pronunciation: string
+  audio: string
+  originWord: string
+}
 interface WikiMediaItem {
   pageid: number
   title: string
@@ -30,16 +39,6 @@ interface WikiMediaResponse {
   }
   parse?: WikiMediaItem
 }
-interface CsvEntry {
-  word: string
-  type: DefinitionTypes
-  meanings: string
-}
-interface DictionaryEntry extends CsvEntry{
-  pronunciation: string
-  audio: string
-  originWord: string
-}
 
 const DictionaryGenerator = {
   isDefinitionTypeValid (value: string): value is DefinitionTypes {
@@ -47,12 +46,12 @@ const DictionaryGenerator = {
     return allowedKeys.includes(value.toLowerCase())
   },
 
-  lookUpWiktionaryDefinitions (from: string, pageHtml: string): DictionaryDefinition[] {
+  lookUpWiktionaryDefinitions (from: string, pageHtml: string): Definition[] {
     const $ = cheerio.load(pageHtml)
     const elements = $(
       'div[class="mw-parser-output"] > h2, div[class="mw-parser-output"] > h3, div[class="mw-parser-output"] > h4, div[class="mw-parser-output"] > ol'
     ).toArray()
-    const result: DictionaryDefinition[] = []
+    const result: Definition[] = []
 
     let tagName = ''
     let header = ''
@@ -97,7 +96,7 @@ const DictionaryGenerator = {
     return result
   },
 
-  async lookUpDefinitions (from: string, pageHtml: string): Promise<DictionaryDefinition[]> {
+  async lookUpDefinitions (from: string, pageHtml: string): Promise<Definition[]> {
     return DictionaryGenerator.lookUpWiktionaryDefinitions(from, pageHtml)
   },
 
