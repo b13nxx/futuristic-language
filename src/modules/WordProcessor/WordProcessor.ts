@@ -1,5 +1,5 @@
-import { consonants, vowels, sounds, getPhonoTactics } from '@/modules/ConfigLoader'
-import { DefinitionTypes } from '@/modules/DictionaryGenerator'
+import { consonants, vowels, sounds, getPhonoTactics } from '@/modules/ConfigLoader/ConfigLoader'
+import { DefinitionTypes } from '@/modules/DictionaryGenerator/DictionaryGenerator'
 
 const WordProcessor = {
   replaceCumulative (text: string, changes: { [key: string]: string }) {

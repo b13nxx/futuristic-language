@@ -1,5 +1,5 @@
 import minimist from 'minimist'
-import DictionaryGenerator from '@/modules/DictionaryGenerator'
+import DictionaryGenerator from '@/modules/DictionaryGenerator/DictionaryGenerator'
 
 const options = minimist(process.argv.slice(2))
 

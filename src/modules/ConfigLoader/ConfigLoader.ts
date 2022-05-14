@@ -1,4 +1,4 @@
-import { DefinitionTypes } from '@/modules/DictionaryGenerator'
+import { DefinitionTypes } from '@/modules/DictionaryGenerator/DictionaryGenerator'
 
 export interface PhonoTactics { [key: string]: string }
 

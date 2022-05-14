@@ -1,6 +1,17 @@
 {
-  "extends": "tsconfigs/nodejs-executable",
   "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "Node",
+    "newLine": "LF",
+    "noErrorTruncation": true,
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "esnext",
+    "lib": ["ESNext"],
+    "composite": false,
     "outDir": "build",
     "module": "CommonJS",
     "paths": {

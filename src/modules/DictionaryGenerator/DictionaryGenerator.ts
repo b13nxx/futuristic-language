@@ -5,10 +5,10 @@ import papa from 'papaparse'
 import axios from 'axios'
 import * as cheerio from 'cheerio'
 import Iso6391 from 'iso-639-1'
-import signale from 'signale'
+// import signale from 'signale'
+import _ from 'lodash'
 
-// eslint-disable-next-line
-import WordProcessor from '@/modules/WordProcessor'
+import WordProcessor from '@/modules/WordProcessor/WordProcessor'
 
 export type DefinitionTypes = 'noun' | 'verb' | 'adjective' | 'adverb' | 'preposition' | 'postposition' | 'conjunction' | 'interjection' | 'pronoun' | 'article' | 'particle' | 'prefix' | 'suffix' | 'abbreviation' | 'acronym' | 'idiom' | 'other'
 export interface DictionaryDefinition {
@@ -34,6 +34,11 @@ interface CsvEntry {
   word: string
   type: DefinitionTypes
   meanings: string
+}
+interface DictionaryEntry extends CsvEntry{
+  pronunciation: string
+  audio: string
+  originWord: string
 }
 
 const DictionaryGenerator = {
@@ -96,17 +101,21 @@ const DictionaryGenerator = {
     return DictionaryGenerator.lookUpWiktionaryDefinitions(from, pageHtml)
   },
 
-  async buildDictionary (from: string, fileName: string): Promise<void> {
+  async buildDictionary (from: string, fileName: string): Promise<{ [type: string]: DictionaryEntry[] }> {
     const readStream = fs.createReadStream(
       path.resolve('./src/wordlists', `${fileName}.${from}.wiktionary.csv`)
     )
     const writeStream = fs.createWriteStream(
       path.resolve('./build/dictionary', `${fileName}.futuristic.md`)
     )
-
-    writeStream.write('# Dictionary \n')
-    writeStream.write('|Word|Pronunciation|Audio|Original Word|Type|Definitions|\n')
-    writeStream.write('|:--|:--|:--|:--|:--|:--|\n')
+    const entries: { [type: string]: DictionaryEntry[] } = {
+      verbs: [],
+      adjectives: [],
+      adverbs: [],
+      others: [],
+      nouns: []
+    }
+    let entryCount = 0
 
     await new Promise((resolve, reject) =>
       papa.parse(readStream, {
@@ -116,23 +125,57 @@ const DictionaryGenerator = {
         transformHeader: header => header.trim(),
         transform: value => value.trim(),
         step: async ({ data: line }: { data: CsvEntry }) => {
-          if (line.type !== 'adjective' && line.type !== 'adverb' && line.type !== 'noun') return
-
-          const meanings = line.meanings.replace(/"/g, '').split(' | ')
+          const subCategory = `${line.type}s` in entries ? line.type : 'other'
           const outputWord = WordProcessor.transformWord(line.word, line.type)
+          const meanings = line.meanings.replace(/"/g, '').split(' | ')
 
-          writeStream.write(
-              `|**${outputWord}**|/${WordProcessor.getPronunciation(outputWord)}/|[🍕](${WordProcessor.getAudio(outputWord, 'Giorgio')}) [🍸](${WordProcessor.getAudio(outputWord, 'Jan')})|${line.word}|${
-                line.type
-              }|${meanings.length > 1 ? `<ol><li>${meanings.join('</li><li>')}</li></ol>` : meanings[0]}|\n`
-          )
+          entries[`${subCategory}s`].push({
+            word: outputWord,
+            pronunciation: `/${WordProcessor.getPronunciation(outputWord)}/`,
+            audio: `[🍕](${WordProcessor.getAudio(outputWord, 'Giorgio')}) [🍸](${WordProcessor.getAudio(outputWord, 'Jan')})`,
+            originWord: line.word,
+            type: line.type,
+            meanings: meanings.length > 1 ? `<ol><li>${meanings.join('</li><li>')}</li></ol>` : meanings[0]
+          })
+
+          entryCount++
         },
         complete: resolve,
         error: reject
       })
     )
 
+    writeStream.write('# Dictionary \n')
+    writeStream.write('\n')
+    writeStream.write(`There are total ${entryCount} entries in the dictionary. \n`)
+
+    writeStream.write('\n')
+    writeStream.write('## Table of Contents \n')
+
+    for (const subCategory in entries) {
+      writeStream.write(`- [${_.capitalize(subCategory) as string}](#${subCategory}) \n`)
+    }
+
+    for (const subCategory in entries) {
+      writeStream.write('\n')
+      writeStream.write(`## ${_.capitalize(subCategory) as string}\n`)
+      writeStream.write(`This section contains a total of ${entries[subCategory].length} entries. \n`)
+      writeStream.write('\n')
+      writeStream.write('||Word|Pronunciation|Audio|Original Word|Type|Meanings|\n')
+      writeStream.write('|:--|:--|:--|:--|:--|:--|:--|\n')
+
+      for (const { word, pronunciation, audio, originWord, type, meanings } of entries[subCategory]) {
+        writeStream.write(
+          `|[⬆️](#table-of-contents)|**${word}**|${pronunciation}|${audio}|${originWord}|${type}|${meanings}|\n`
+        )
+      }
+
+      writeStream.write('\n')
+    }
+
     writeStream.end()
+
+    return entries
   },
 
   async buildWordListFromWiktionary (from: string, fileName: string): Promise<void> {
@@ -140,7 +183,7 @@ const DictionaryGenerator = {
     const outputFileName = `${fileName}.${from}.wiktionary.csv`
 
     console.log('')
-    signale.debug(`Creating ${languageName} word list from Wiktionary into ${outputFileName}`)
+    // signale.debug(`Creating ${languageName} word list from Wiktionary into ${outputFileName}`)
     console.log('')
 
     const writeStream = fs.createWriteStream(
@@ -176,17 +219,17 @@ const DictionaryGenerator = {
             )
           }
 
-          signale.success(`Writing down word (${member.title})`)
+          // signale.success(`Writing down word (${member.title})`)
         }
       } catch (error) {
-        signale.fatal(error)
+        // signale.fatal(error)
       }
     } while (continueQuery !== '')
 
     writeStream.end()
 
     console.log('')
-    signale.debug('Created word list')
+    // signale.debug('Created word list')
     console.log('')
   },
 
