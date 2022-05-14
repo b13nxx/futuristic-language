@@ -38,6 +38,8 @@ export const endings: { [key: string]: string } = {
 }
 
 export const getPhonoTactics = (type: DefinitionTypes): PhonoTactics => ({
+  '-': ' ', // normalizing dash
+
   // normalizing phonomos
   c: 'k',
   j: 'h',
@@ -65,10 +67,10 @@ export const getPhonoTactics = (type: DefinitionTypes): PhonoTactics => ({
   [`([${consonants}])[${consonants}](?=[${consonants}])`]: '$1', // replacing 3 consecutive consonants (umezurztegi => umezurtegi)
   [`([${vowels}])[${vowels}]`]: '$1', // replacing 2 consecutive vowels (adberbio => adberbi)
 
-  // normalizing word endings
-  [`([${vowels}])$`]: `${endings[type] ?? 'e'}`, // replacing last vowel sound of the word according the type (angelu => angeli)
-  [`([^${vowels}])$`]: `$1${endings[type] ?? 'e'}`, // replacing last consonant sound of the word according the type (adibidez => adibidezo)
+  // normalizing sword endings
+  [`([${vowels}])\\b`]: `${endings[type] ?? 'e'}`, // replacing last vowel sound of the word according the type (angelu => angeli)
+  [`([${consonants}])\\b`]: `$1${endings[type] ?? 'e'}`, // replacing last consonant sound of the word according the type (adibidez => adibidezo)
 
   // special case need to look AFTER normalizing word endings
-  [`^([${consonants}])([${consonants}])`]: '$1i$2' // replacing 2 consecutive consonants at the beginning of the word (dromedario => diromedario)
+  [`\\b([${consonants}])([${consonants}])`]: '$1i$2' // replacing 2 consecutive consonants at the beginning of the word (dromedario => diromedario)
 })

@@ -15,25 +15,32 @@ const WordProcessor = {
   },
 
   getPronunciation (word: string): string {
-    const syllables = WordProcessor.getSyllables(word)
-    const outputWord = (
-      syllables.length > 2
-        ? (syllables.splice(-2, 0, 'ˈ'), syllables)
-        : syllables
-    ).join(
-      syllables.length === 2
-        ? 'ˈ'
-        : ''
-    )
+    const parts = word.split(' ')
+    let pronunciation = ''
 
-    return WordProcessor.replaceCumulative(outputWord, sounds)
+    for (const part of parts) {
+      const syllables = WordProcessor.getSyllables(part)
+      const outputWord = (
+        syllables.length > 2
+          ? (syllables.splice(-2, 0, 'ˈ'), syllables)
+          : syllables
+      ).join(
+        syllables.length === 2
+          ? 'ˈ'
+          : ''
+      )
+
+      pronunciation += ` ${WordProcessor.replaceCumulative(outputWord, sounds)}`
+    }
+
+    return pronunciation.trim()
   },
 
   getAudio: (word: string, voice: 'Giorgio' | 'Jan'): string =>
     encodeURI(`http://ipa-reader.xyz/?text=${WordProcessor.getPronunciation(word)}&voice=${voice}`),
 
   getSyllables: (word: string): string[] =>
-    word.match(new RegExp(`[${consonants} ]*[${vowels}]+(?:[${consonants}](?=[${consonants}]))?`, 'gi')) ?? []
+    word.match(new RegExp(`[${consonants}]*[${vowels}]+(?:[${consonants}](?=[${consonants}]))?`, 'gi')) ?? []
 }
 
 export default WordProcessor

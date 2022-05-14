@@ -7,7 +7,7 @@ Object {
   "originWord": "-ago",
   "pronunciation": "/ɑˈgɛ/",
   "type": "suffix",
-  "word": "-age",
+  "word": " age",
 }
 `;
 
@@ -18,7 +18,7 @@ Object {
   "originWord": "-aizun",
   "pronunciation": "/ɑˈzunɛ/",
   "type": "suffix",
-  "word": "-azune",
+  "word": " azune",
 }
 `;
 
@@ -29,7 +29,7 @@ Object {
   "originWord": "-ar",
   "pronunciation": "/ɑˈɾɛ/",
   "type": "suffix",
-  "word": "-are",
+  "word": " are",
 }
 `;
 
@@ -40,7 +40,7 @@ Object {
   "originWord": "-arazi",
   "pronunciation": "/ɑˈɾɑzɛ/",
   "type": "suffix",
-  "word": "-araze",
+  "word": " araze",
 }
 `;
 
@@ -51,7 +51,7 @@ Object {
   "originWord": "-ari",
   "pronunciation": "/ɑˈɾɛ/",
   "type": "suffix",
-  "word": "-are",
+  "word": " are",
 }
 `;
 
@@ -62,7 +62,7 @@ Object {
   "originWord": "-ari",
   "pronunciation": "/ɑˈɾɛ/",
   "type": "suffix",
-  "word": "-are",
+  "word": " are",
 }
 `;
 
@@ -73,7 +73,7 @@ Object {
   "originWord": "-ba",
   "pronunciation": "/bɛ/",
   "type": "suffix",
-  "word": "-be",
+  "word": " be",
 }
 `;
 
@@ -84,7 +84,7 @@ Object {
   "originWord": "-dar",
   "pronunciation": "/dɑˈɾɛ/",
   "type": "suffix",
-  "word": "-dare",
+  "word": " dare",
 }
 `;
 
@@ -95,7 +95,7 @@ Object {
   "originWord": "-degi",
   "pronunciation": "/dɛˈgɛ/",
   "type": "suffix",
-  "word": "-dege",
+  "word": " dege",
 }
 `;
 
@@ -106,7 +106,7 @@ Object {
   "originWord": "-di",
   "pronunciation": "/dɛ/",
   "type": "suffix",
-  "word": "-de",
+  "word": " de",
 }
 `;
 
@@ -117,7 +117,7 @@ Object {
   "originWord": "-du",
   "pronunciation": "/dɛ/",
   "type": "suffix",
-  "word": "-de",
+  "word": " de",
 }
 `;
 
@@ -128,7 +128,7 @@ Object {
   "originWord": "-dun",
   "pronunciation": "/duˈnɛ/",
   "type": "suffix",
-  "word": "-dune",
+  "word": " dune",
 }
 `;
 
@@ -139,7 +139,7 @@ Object {
   "originWord": "-egi",
   "pronunciation": "/ɛˈgɛ/",
   "type": "suffix",
-  "word": "-ege",
+  "word": " ege",
 }
 `;
 
@@ -150,7 +150,7 @@ Object {
   "originWord": "-ela",
   "pronunciation": "/ɛˈlɛ/",
   "type": "conjunction",
-  "word": "-ele",
+  "word": " ele",
 }
 `;
 
@@ -161,7 +161,7 @@ Object {
   "originWord": "-en",
   "pronunciation": "/ɛˈnɛ/",
   "type": "conjunction",
-  "word": "-ene",
+  "word": " ene",
 }
 `;
 
@@ -172,7 +172,7 @@ Object {
   "originWord": "-en",
   "pronunciation": "/ɛˈnɛ/",
   "type": "suffix",
-  "word": "-ene",
+  "word": " ene",
 }
 `;
 
@@ -183,7 +183,7 @@ Object {
   "originWord": "-en",
   "pronunciation": "/ɛˈnɛ/",
   "type": "suffix",
-  "word": "-ene",
+  "word": " ene",
 }
 `;
 
@@ -194,7 +194,7 @@ Object {
   "originWord": "-era",
   "pronunciation": "/ɛˈɾɛ/",
   "type": "suffix",
-  "word": "-ere",
+  "word": " ere",
 }
 `;
 
@@ -205,7 +205,7 @@ Object {
   "originWord": "-eria",
   "pronunciation": "/ɛˈɾɛ/",
   "type": "suffix",
-  "word": "-ere",
+  "word": " ere",
 }
 `;
 
@@ -216,7 +216,7 @@ Object {
   "originWord": "-ero",
   "pronunciation": "/ɛˈɾɛ/",
   "type": "suffix",
-  "word": "-ere",
+  "word": " ere",
 }
 `;
 
@@ -227,7 +227,7 @@ Object {
   "originWord": "-eta",
   "pronunciation": "/ɛˈt̪ɛ/",
   "type": "suffix",
-  "word": "-ete",
+  "word": " ete",
 }
 `;
 
@@ -238,7 +238,7 @@ Object {
   "originWord": "-ezin",
   "pronunciation": "/ɛˈzinɛ/",
   "type": "suffix",
-  "word": "-ezine",
+  "word": " ezine",
 }
 `;
 
@@ -249,7 +249,7 @@ Object {
   "originWord": "-garren",
   "pronunciation": "/gɑˈɾɛnɛ/",
   "type": "suffix",
-  "word": "-garene",
+  "word": " garene",
 }
 `;
 
@@ -260,7 +260,7 @@ Object {
   "originWord": "-gile",
   "pronunciation": "/giˈlɛ/",
   "type": "suffix",
-  "word": "-gile",
+  "word": " gile",
 }
 `;
 
@@ -271,7 +271,7 @@ Object {
   "originWord": "-gin",
   "pronunciation": "/giˈnɛ/",
   "type": "suffix",
-  "word": "-gine",
+  "word": " gine",
 }
 `;
 
@@ -282,7 +282,7 @@ Object {
   "originWord": "-gintza",
   "pronunciation": "/ginˈzɛ/",
   "type": "suffix",
-  "word": "-ginze",
+  "word": " ginze",
 }
 `;
 
@@ -293,7 +293,7 @@ Object {
   "originWord": "-go",
   "pronunciation": "/gɛ/",
   "type": "suffix",
-  "word": "-ge",
+  "word": " ge",
 }
 `;
 
@@ -304,7 +304,7 @@ Object {
   "originWord": "-ik",
   "pronunciation": "/iˈkɛ/",
   "type": "suffix",
-  "word": "-ike",
+  "word": " ike",
 }
 `;
 
@@ -315,7 +315,7 @@ Object {
   "originWord": "-ka",
   "pronunciation": "/kɛ/",
   "type": "suffix",
-  "word": "-ke",
+  "word": " ke",
 }
 `;
 
@@ -326,7 +326,7 @@ Object {
   "originWord": "-kari",
   "pronunciation": "/kɑˈɾɛ/",
   "type": "suffix",
-  "word": "-kare",
+  "word": " kare",
 }
 `;
 
@@ -337,7 +337,7 @@ Object {
   "originWord": "-kari",
   "pronunciation": "/kɑˈɾɛ/",
   "type": "suffix",
-  "word": "-kare",
+  "word": " kare",
 }
 `;
 
@@ -348,7 +348,7 @@ Object {
   "originWord": "-keria",
   "pronunciation": "/kɛˈɾɛ/",
   "type": "suffix",
-  "word": "-kere",
+  "word": " kere",
 }
 `;
 
@@ -359,7 +359,7 @@ Object {
   "originWord": "-ki",
   "pronunciation": "/kɛ/",
   "type": "suffix",
-  "word": "-ke",
+  "word": " ke",
 }
 `;
 
@@ -370,7 +370,7 @@ Object {
   "originWord": "-ki",
   "pronunciation": "/kɛ/",
   "type": "suffix",
-  "word": "-ke",
+  "word": " ke",
 }
 `;
 
@@ -381,7 +381,7 @@ Object {
   "originWord": "-kile",
   "pronunciation": "/kiˈlɛ/",
   "type": "suffix",
-  "word": "-kile",
+  "word": " kile",
 }
 `;
 
@@ -392,7 +392,7 @@ Object {
   "originWord": "-kin",
   "pronunciation": "/kiˈnɛ/",
   "type": "suffix",
-  "word": "-kine",
+  "word": " kine",
 }
 `;
 
@@ -403,7 +403,7 @@ Object {
   "originWord": "-ko",
   "pronunciation": "/kɛ/",
   "type": "suffix",
-  "word": "-ke",
+  "word": " ke",
 }
 `;
 
@@ -414,7 +414,7 @@ Object {
   "originWord": "-kume",
   "pronunciation": "/kuˈmɛ/",
   "type": "suffix",
-  "word": "-kume",
+  "word": " kume",
 }
 `;
 
@@ -425,7 +425,7 @@ Object {
   "originWord": "-kunde",
   "pronunciation": "/kunˈdɛ/",
   "type": "suffix",
-  "word": "-kunde",
+  "word": " kunde",
 }
 `;
 
@@ -436,7 +436,7 @@ Object {
   "originWord": "-la",
   "pronunciation": "/lɛ/",
   "type": "conjunction",
-  "word": "-le",
+  "word": " le",
 }
 `;
 
@@ -447,7 +447,7 @@ Object {
   "originWord": "-lako",
   "pronunciation": "/lɑˈkɛ/",
   "type": "conjunction",
-  "word": "-lake",
+  "word": " lake",
 }
 `;
 
@@ -458,7 +458,7 @@ Object {
   "originWord": "-lari",
   "pronunciation": "/lɑˈɾɛ/",
   "type": "suffix",
-  "word": "-lare",
+  "word": " lare",
 }
 `;
 
@@ -469,7 +469,7 @@ Object {
   "originWord": "-larik",
   "pronunciation": "/lɑˈɾikɛ/",
   "type": "conjunction",
-  "word": "-larike",
+  "word": " larike",
 }
 `;
 
@@ -480,7 +480,7 @@ Object {
   "originWord": "-le",
   "pronunciation": "/lɛ/",
   "type": "suffix",
-  "word": "-le",
+  "word": " le",
 }
 `;
 
@@ -491,7 +491,7 @@ Object {
   "originWord": "-liar",
   "pronunciation": "/liˈɾɛ/",
   "type": "suffix",
-  "word": "-lire",
+  "word": " lire",
 }
 `;
 
@@ -502,7 +502,7 @@ Object {
   "originWord": "-n",
   "pronunciation": "/nɛ/",
   "type": "conjunction",
-  "word": "-ne",
+  "word": " ne",
 }
 `;
 
@@ -513,7 +513,7 @@ Object {
   "originWord": "-nik",
   "pronunciation": "/niˈkɛ/",
   "type": "conjunction",
-  "word": "-nike",
+  "word": " nike",
 }
 `;
 
@@ -524,7 +524,7 @@ Object {
   "originWord": "-ondo",
   "pronunciation": "/ɔnˈdɛ/",
   "type": "suffix",
-  "word": "-onde",
+  "word": " onde",
 }
 `;
 
@@ -535,7 +535,7 @@ Object {
   "originWord": "-orde",
   "pronunciation": "/ɔɾˈdɛ/",
   "type": "suffix",
-  "word": "-orde",
+  "word": " orde",
 }
 `;
 
@@ -546,7 +546,7 @@ Object {
   "originWord": "-ra",
   "pronunciation": "/ɾɛ/",
   "type": "suffix",
-  "word": "-re",
+  "word": " re",
 }
 `;
 
@@ -557,7 +557,7 @@ Object {
   "originWord": "-tar",
   "pronunciation": "/t̪ɑˈɾɛ/",
   "type": "suffix",
-  "word": "-tare",
+  "word": " tare",
 }
 `;
 
@@ -568,7 +568,7 @@ Object {
   "originWord": "-tasun",
   "pronunciation": "/t̪ɑˈsunɛ/",
   "type": "suffix",
-  "word": "-tasune",
+  "word": " tasune",
 }
 `;
 
@@ -579,7 +579,7 @@ Object {
   "originWord": "-tegi",
   "pronunciation": "/t̪ɛˈgɛ/",
   "type": "suffix",
-  "word": "-tege",
+  "word": " tege",
 }
 `;
 
@@ -590,7 +590,7 @@ Object {
   "originWord": "-tsu",
   "pronunciation": "/sɛ/",
   "type": "suffix",
-  "word": "-se",
+  "word": " se",
 }
 `;
 
@@ -601,7 +601,7 @@ Object {
   "originWord": "-tu",
   "pronunciation": "/t̪ɛ/",
   "type": "suffix",
-  "word": "-te",
+  "word": " te",
 }
 `;
 
@@ -612,7 +612,7 @@ Object {
   "originWord": "-txi",
   "pronunciation": "/t̪͡ʃɛ/",
   "type": "suffix",
-  "word": "-je",
+  "word": " je",
 }
 `;
 
@@ -623,7 +623,7 @@ Object {
   "originWord": "-txo",
   "pronunciation": "/t̪͡ʃɛ/",
   "type": "suffix",
-  "word": "-je",
+  "word": " je",
 }
 `;
 
@@ -634,7 +634,7 @@ Object {
   "originWord": "-tza",
   "pronunciation": "/zɛ/",
   "type": "suffix",
-  "word": "-ze",
+  "word": " ze",
 }
 `;
 
@@ -645,7 +645,7 @@ Object {
   "originWord": "-tzaile",
   "pronunciation": "/zɑˈlɛ/",
   "type": "suffix",
-  "word": "-zale",
+  "word": " zale",
 }
 `;
 
@@ -656,7 +656,7 @@ Object {
   "originWord": "-tzain",
   "pronunciation": "/zɑˈnɛ/",
   "type": "suffix",
-  "word": "-zane",
+  "word": " zane",
 }
 `;
 
@@ -667,7 +667,7 @@ Object {
   "originWord": "-z",
   "pronunciation": "/zɛ/",
   "type": "suffix",
-  "word": "-ze",
+  "word": " ze",
 }
 `;
 
@@ -678,7 +678,7 @@ Object {
   "originWord": "-zain",
   "pronunciation": "/zɑˈnɛ/",
   "type": "suffix",
-  "word": "-zane",
+  "word": " zane",
 }
 `;
 
@@ -689,7 +689,7 @@ Object {
   "originWord": "-zale",
   "pronunciation": "/zɑˈlɛ/",
   "type": "suffix",
-  "word": "-zale",
+  "word": " zale",
 }
 `;
 
@@ -700,7 +700,7 @@ Object {
   "originWord": "-zar",
   "pronunciation": "/zɑˈɾɛ/",
   "type": "suffix",
-  "word": "-zare",
+  "word": " zare",
 }
 `;
 
@@ -728,12 +728,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: Etxe Zuria type: noun meanings: White House 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bt%CC%AA%CD%A1%CA%83%C9%9B%CB%88%20zu%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bt%CC%AA%CD%A1%CA%83%C9%9B%CB%88%20zu%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%CB%88t%CC%AA%CD%A1%CA%83i%20zu%CB%88%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%CB%88t%CC%AA%CD%A1%CA%83i%20zu%CB%88%C9%BEi&voice=Jan)",
   "meanings": "White House",
   "originWord": "Etxe Zuria",
-  "pronunciation": "/ɛt̪͡ʃɛˈ zuɾi/",
+  "pronunciation": "/ɛˈt̪͡ʃi zuˈɾi/",
   "type": "noun",
-  "word": "Eje Zuri",
+  "word": "Eji Zuri",
 }
 `;
 
@@ -750,12 +750,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: K.a. type: adverb meanings: Initialism of Kristo aurretik (“B.C.”). 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=k%C9%94%CB%88%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=k%C9%94%CB%88%C9%94&voice=Jan)",
   "meanings": "Initialism of Kristo aurretik (“B.C.”).",
   "originWord": "K.a.",
-  "pronunciation": "/ɑˈɔ/",
+  "pronunciation": "/kɔˈɔ/",
   "type": "adverb",
-  "word": "K.a.o",
+  "word": "Ko.o.",
 }
 `;
 
@@ -2510,12 +2510,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: ama-hizkuntza type: noun meanings: mother tongue 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91m%C9%91hiz%CB%88kunzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91m%C9%91hiz%CB%88kunzi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88mi%20hiz%CB%88kunzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88mi%20hiz%CB%88kunzi&voice=Jan)",
   "meanings": "mother tongue",
   "originWord": "ama-hizkuntza",
-  "pronunciation": "/ɑmɑhizˈkunzi/",
+  "pronunciation": "/ɑˈmi hizˈkunzi/",
   "type": "noun",
-  "word": "ama-hizkunzi",
+  "word": "ami hizkunzi",
 }
 `;
 
@@ -3192,23 +3192,23 @@ Object {
 
 exports[`Should buildDictionary for:  word: ardo beltz type: noun meanings: red wine 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%C9%BEd%C9%94%CB%88%20b%C9%9Blzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%C9%BEd%C9%94%CB%88%20b%C9%9Blzi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%C9%BE%CB%88di%20b%C9%9Bl%CB%88zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%C9%BE%CB%88di%20b%C9%9Bl%CB%88zi&voice=Jan)",
   "meanings": "red wine",
   "originWord": "ardo beltz",
-  "pronunciation": "/ɑɾdɔˈ bɛlzi/",
+  "pronunciation": "/ɑɾˈdi bɛlˈzi/",
   "type": "noun",
-  "word": "ardo belzi",
+  "word": "ardi belzi",
 }
 `;
 
 exports[`Should buildDictionary for:  word: ardo gorri type: noun meanings: rosé wine 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%C9%BEd%C9%94%CB%88%20g%C9%94%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%C9%BEd%C9%94%CB%88%20g%C9%94%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%C9%BE%CB%88di%20g%C9%94%CB%88%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%C9%BE%CB%88di%20g%C9%94%CB%88%C9%BEi&voice=Jan)",
   "meanings": "rosé wine",
   "originWord": "ardo gorri",
-  "pronunciation": "/ɑɾdɔˈ gɔɾi/",
+  "pronunciation": "/ɑɾˈdi gɔˈɾi/",
   "type": "noun",
-  "word": "ardo gori",
+  "word": "ardi gori",
 }
 `;
 
@@ -3225,12 +3225,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: ardo zuri type: noun meanings: white wine 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%C9%BEd%C9%94%CB%88%20zu%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%C9%BEd%C9%94%CB%88%20zu%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%C9%BE%CB%88di%20zu%CB%88%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%C9%BE%CB%88di%20zu%CB%88%C9%BEi&voice=Jan)",
   "meanings": "white wine",
   "originWord": "ardo zuri",
-  "pronunciation": "/ɑɾdɔˈ zuɾi/",
+  "pronunciation": "/ɑɾˈdi zuˈɾi/",
   "type": "noun",
-  "word": "ardo zuri",
+  "word": "ardi zuri",
 }
 `;
 
@@ -3423,12 +3423,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: armiarma-sare type: noun meanings: spiderweb 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%C9%BEmi%C9%BEm%C9%91%CB%88s%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%C9%BEmi%C9%BEm%C9%91%CB%88s%C9%91%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%C9%BE%CB%88mi%C9%BEmi%20s%C9%91%CB%88%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%C9%BE%CB%88mi%C9%BEmi%20s%C9%91%CB%88%C9%BEi&voice=Jan)",
   "meanings": "spiderweb",
   "originWord": "armiarma-sare",
-  "pronunciation": "/ɑɾmiɾmɑˈsɑɾi/",
+  "pronunciation": "/ɑɾˈmiɾmi sɑˈɾi/",
   "type": "noun",
-  "word": "armirma-sari",
+  "word": "armirmi sari",
 }
 `;
 
@@ -3764,12 +3764,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: artzain-txakur type: noun meanings: sheepdog 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%C9%BEz%C9%91t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%C9%BEz%C9%91t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%C9%BE%CB%88z%C9%91ni%20t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%C9%BE%CB%88z%C9%91ni%20t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Jan)",
   "meanings": "sheepdog",
   "originWord": "artzain-txakur",
-  "pronunciation": "/ɑɾzɑt̪͡ʃɑˈkuɾi/",
+  "pronunciation": "/ɑɾˈzɑni t̪͡ʃɑˈkuɾi/",
   "type": "noun",
-  "word": "arzan-jakuri",
+  "word": "arzani jakuri",
 }
 `;
 
@@ -3995,12 +3995,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: ata- type: noun meanings: combining form of ate (“door”) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88t%CC%AA%C9%91i&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88t%CC%AA%C9%91i&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88t%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88t%CC%AAi&voice=Jan)",
   "meanings": "combining form of ate (“door”)",
   "originWord": "ata-",
-  "pronunciation": "/ɑˈt̪ɑi/",
+  "pronunciation": "/ɑˈt̪i/",
   "type": "noun",
-  "word": "ata-i",
+  "word": "ati ",
 }
 `;
 
@@ -4028,12 +4028,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: atariko haize type: noun meanings: (idiomatic) dead loss (something or someone useless) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91t%CC%AA%C9%91%C9%BEik%C9%94%CB%88%20h%C9%91zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91t%CC%AA%C9%91%C9%BEik%C9%94%CB%88%20h%C9%91zi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91t%CC%AA%C9%91%CB%88%C9%BEiki%20h%C9%91%CB%88zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91t%CC%AA%C9%91%CB%88%C9%BEiki%20h%C9%91%CB%88zi&voice=Jan)",
   "meanings": "(idiomatic) dead loss (something or someone useless)",
   "originWord": "atariko haize",
-  "pronunciation": "/ɑt̪ɑɾikɔˈ hɑzi/",
+  "pronunciation": "/ɑt̪ɑˈɾiki hɑˈzi/",
   "type": "noun",
-  "word": "atariko hazi",
+  "word": "atariki hazi",
 }
 `;
 
@@ -4512,10 +4512,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: azeri hegalari type: noun meanings: flying fox 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEi%20h%C9%9Bg%C9%91%CB%88l%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEi%20h%C9%9Bg%C9%91%CB%88l%C9%91%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20h%C9%9Bg%C9%91%CB%88l%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20h%C9%9Bg%C9%91%CB%88l%C9%91%C9%BEi&voice=Jan)",
   "meanings": "flying fox",
   "originWord": "azeri hegalari",
-  "pronunciation": "/ɑzɛɾi hɛgɑˈlɑɾi/",
+  "pronunciation": "/ɑˈzɛɾi hɛgɑˈlɑɾi/",
   "type": "noun",
   "word": "azeri hegalari",
 }
@@ -4545,10 +4545,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: azeri zahar type: noun meanings: (idiomatic) old hand 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEi%20z%C9%91%CB%88h%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEi%20z%C9%91%CB%88h%C9%91%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20z%C9%91%CB%88h%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20z%C9%91%CB%88h%C9%91%C9%BEi&voice=Jan)",
   "meanings": "(idiomatic) old hand",
   "originWord": "azeri zahar",
-  "pronunciation": "/ɑzɛɾi zɑˈhɑɾi/",
+  "pronunciation": "/ɑˈzɛɾi zɑˈhɑɾi/",
   "type": "noun",
   "word": "azeri zahari",
 }
@@ -4556,67 +4556,67 @@ Object {
 
 exports[`Should buildDictionary for:  word: azeri-bataio type: noun meanings: sun shower 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEib%C9%91%CB%88t%CC%AA%C9%91si&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEib%C9%91%CB%88t%CC%AA%C9%91si&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20b%C9%91%CB%88t%CC%AA%C9%91si&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20b%C9%91%CB%88t%CC%AA%C9%91si&voice=Jan)",
   "meanings": "sun shower",
   "originWord": "azeri-bataio",
-  "pronunciation": "/ɑzɛɾibɑˈt̪ɑsi/",
+  "pronunciation": "/ɑˈzɛɾi bɑˈt̪ɑsi/",
   "type": "noun",
-  "word": "azeri-batasi",
+  "word": "azeri batasi",
 }
 `;
 
 exports[`Should buildDictionary for:  word: azeri-belar type: noun meanings: (botany) meadow foxtail 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEib%C9%9B%CB%88l%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEib%C9%9B%CB%88l%C9%91%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20b%C9%9B%CB%88l%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20b%C9%9B%CB%88l%C9%91%C9%BEi&voice=Jan)",
   "meanings": "(botany) meadow foxtail",
   "originWord": "azeri-belar",
-  "pronunciation": "/ɑzɛɾibɛˈlɑɾi/",
+  "pronunciation": "/ɑˈzɛɾi bɛˈlɑɾi/",
   "type": "noun",
-  "word": "azeri-belari",
+  "word": "azeri belari",
 }
 `;
 
 exports[`Should buildDictionary for:  word: azeri-buztan type: noun meanings: (botany) horsetail 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEibuz%CB%88t%CC%AA%C9%91ni&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEibuz%CB%88t%CC%AA%C9%91ni&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20buz%CB%88t%CC%AA%C9%91ni&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20buz%CB%88t%CC%AA%C9%91ni&voice=Jan)",
   "meanings": "(botany) horsetail",
   "originWord": "azeri-buztan",
-  "pronunciation": "/ɑzɛɾibuzˈt̪ɑni/",
+  "pronunciation": "/ɑˈzɛɾi buzˈt̪ɑni/",
   "type": "noun",
-  "word": "azeri-buztani",
+  "word": "azeri buztani",
 }
 `;
 
 exports[`Should buildDictionary for:  word: azeri-ezkontza type: noun meanings: sun shower 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEi%C9%9Bz%CB%88k%C9%94nzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEi%C9%9Bz%CB%88k%C9%94nzi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20%C9%9Bz%CB%88k%C9%94nzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20%C9%9Bz%CB%88k%C9%94nzi&voice=Jan)",
   "meanings": "sun shower",
   "originWord": "azeri-ezkontza",
-  "pronunciation": "/ɑzɛɾiɛzˈkɔnzi/",
+  "pronunciation": "/ɑˈzɛɾi ɛzˈkɔnzi/",
   "type": "noun",
-  "word": "azeri-ezkonzi",
+  "word": "azeri ezkonzi",
 }
 `;
 
 exports[`Should buildDictionary for:  word: azeri-txakur type: noun meanings: (idiomatic) a hound used to hunt foxes, foxhound 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEit%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEit%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Jan)",
   "meanings": "(idiomatic) a hound used to hunt foxes, foxhound",
   "originWord": "azeri-txakur",
-  "pronunciation": "/ɑzɛɾit̪͡ʃɑˈkuɾi/",
+  "pronunciation": "/ɑˈzɛɾi t̪͡ʃɑˈkuɾi/",
   "type": "noun",
-  "word": "azeri-jakuri",
+  "word": "azeri jakuri",
 }
 `;
 
 exports[`Should buildDictionary for:  word: azeri-zulo type: noun meanings: fox burrow 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEi%CB%88zuli&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91z%C9%9B%C9%BEi%CB%88zuli&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20zu%CB%88li&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91%CB%88z%C9%9B%C9%BEi%20zu%CB%88li&voice=Jan)",
   "meanings": "fox burrow",
   "originWord": "azeri-zulo",
-  "pronunciation": "/ɑzɛɾiˈzuli/",
+  "pronunciation": "/ɑˈzɛɾi zuˈli/",
   "type": "noun",
-  "word": "azeri-zuli",
+  "word": "azeri zuli",
 }
 `;
 
@@ -4754,12 +4754,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: azpi- type: prefix meanings: sub-, infra-, hypo- 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91z%CB%88pi%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91z%CB%88pi%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%91z%CB%88p%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%91z%CB%88p%C9%9B&voice=Jan)",
   "meanings": "sub-, infra-, hypo-",
   "originWord": "azpi-",
-  "pronunciation": "/ɑzˈpiɛ/",
+  "pronunciation": "/ɑzˈpɛ/",
   "type": "prefix",
-  "word": "azpi-e",
+  "word": "azpe ",
 }
 `;
 
@@ -4853,23 +4853,23 @@ Object {
 
 exports[`Should buildDictionary for:  word: ba- type: conjunction meanings: (Southern) if 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91%CB%88%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91%CB%88%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B&voice=Jan)",
   "meanings": "(Southern) if",
   "originWord": "ba-",
-  "pronunciation": "/bɑˈɛ/",
+  "pronunciation": "/bɛ/",
   "type": "conjunction",
-  "word": "ba-e",
+  "word": "be ",
 }
 `;
 
 exports[`Should buildDictionary for:  word: ba- type: particle meanings: Prefixed to verb forms to show emphasis. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91%CB%88%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91%CB%88%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B&voice=Jan)",
   "meanings": "Prefixed to verb forms to show emphasis.",
   "originWord": "ba-",
-  "pronunciation": "/bɑˈɛ/",
+  "pronunciation": "/bɛ/",
   "type": "particle",
-  "word": "ba-e",
+  "word": "be ",
 }
 `;
 
@@ -4941,12 +4941,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: bai- type: conjunction meanings: Alternative form of bait- 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91%CB%88%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91%CB%88%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B&voice=Jan)",
   "meanings": "Alternative form of bait-",
   "originWord": "bai-",
-  "pronunciation": "/bɑˈɛ/",
+  "pronunciation": "/bɛ/",
   "type": "conjunction",
-  "word": "ba-e",
+  "word": "be ",
 }
 `;
 
@@ -4974,12 +4974,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: bait- type: conjunction meanings: <ol><li>because, since</li><li>who, which</li></ol> 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91%CB%88%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91%CB%88%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91%CB%88t%CC%AA%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91%CB%88t%CC%AA%C9%9B&voice=Jan)",
   "meanings": "<ol><li>because, since</li><li>who, which</li></ol>",
   "originWord": "bait-",
-  "pronunciation": "/bɑˈɛ/",
+  "pronunciation": "/bɑˈt̪ɛ/",
   "type": "conjunction",
-  "word": "bat-e",
+  "word": "bate ",
 }
 `;
 
@@ -5095,23 +5095,23 @@ Object {
 
 exports[`Should buildDictionary for:  word: baldin eta soilik baldin type: conjunction meanings: (logic, mathematics) if and only if 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91ldin%20%C9%9Bt%CC%AA%C9%91%20s%C9%94lik%20b%C9%91l%CB%88din%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91ldin%20%C9%9Bt%CC%AA%C9%91%20s%C9%94lik%20b%C9%91l%CB%88din%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91l%CB%88din%C9%9B%20%C9%9B%CB%88t%CC%AA%C9%9B%20s%C9%94%CB%88lik%C9%9B%20b%C9%91l%CB%88din%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91l%CB%88din%C9%9B%20%C9%9B%CB%88t%CC%AA%C9%9B%20s%C9%94%CB%88lik%C9%9B%20b%C9%91l%CB%88din%C9%9B&voice=Jan)",
   "meanings": "(logic, mathematics) if and only if",
   "originWord": "baldin eta soilik baldin",
-  "pronunciation": "/bɑldin ɛt̪ɑ sɔlik bɑlˈdinɛ/",
+  "pronunciation": "/bɑlˈdinɛ ɛˈt̪ɛ sɔˈlikɛ bɑlˈdinɛ/",
   "type": "conjunction",
-  "word": "baldin eta solik baldine",
+  "word": "baldine ete solike baldine",
 }
 `;
 
 exports[`Should buildDictionary for:  word: baldin eta type: particle meanings: Used before a clause containing a conditional verb form to show emphasis. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91ldi%CB%88n%20%C9%9Bt%CC%AA%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91ldi%CB%88n%20%C9%9Bt%CC%AA%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91l%CB%88din%C9%9B%20%C9%9B%CB%88t%CC%AA%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91l%CB%88din%C9%9B%20%C9%9B%CB%88t%CC%AA%C9%9B&voice=Jan)",
   "meanings": "Used before a clause containing a conditional verb form to show emphasis.",
   "originWord": "baldin eta",
-  "pronunciation": "/bɑldiˈn ɛt̪ɛ/",
+  "pronunciation": "/bɑlˈdinɛ ɛˈt̪ɛ/",
   "type": "particle",
-  "word": "baldin ete",
+  "word": "baldine ete",
 }
 `;
 
@@ -5161,12 +5161,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: banatze gorputz type: noun meanings: (algebra, Galois theory) (of a polynomial) splitting field 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91n%C9%91z%C9%9B%20g%C9%94%C9%BE%CB%88puzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91n%C9%91z%C9%9B%20g%C9%94%C9%BE%CB%88puzi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91%CB%88n%C9%91zi%20g%C9%94%C9%BE%CB%88puzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91%CB%88n%C9%91zi%20g%C9%94%C9%BE%CB%88puzi&voice=Jan)",
   "meanings": "(algebra, Galois theory) (of a polynomial) splitting field",
   "originWord": "banatze gorputz",
-  "pronunciation": "/bɑnɑzɛ gɔɾˈpuzi/",
+  "pronunciation": "/bɑˈnɑzi gɔɾˈpuzi/",
   "type": "noun",
-  "word": "banaze gorpuzi",
+  "word": "banazi gorpuzi",
 }
 `;
 
@@ -5513,12 +5513,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: basa- type: noun meanings: combining form of baso (“forest”) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91%CB%88s%C9%91i&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91%CB%88s%C9%91i&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91%CB%88si&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91%CB%88si&voice=Jan)",
   "meanings": "combining form of baso (“forest”)",
   "originWord": "basa-",
-  "pronunciation": "/bɑˈsɑi/",
+  "pronunciation": "/bɑˈsi/",
   "type": "noun",
-  "word": "basa-i",
+  "word": "basi ",
 }
 `;
 
@@ -5656,23 +5656,23 @@ Object {
 
 exports[`Should buildDictionary for:  word: bat etorri type: verb meanings: to agree 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91t%CC%AA%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BE%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91t%CC%AA%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BE%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91%CB%88t%CC%AA%C9%91%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BE%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91%CB%88t%CC%AA%C9%91%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BE%C9%91&voice=Jan)",
   "meanings": "to agree",
   "originWord": "bat etorri",
-  "pronunciation": "/bɑt̪ ɛˈt̪ɔɾɑ/",
+  "pronunciation": "/bɑˈt̪ɑ ɛˈt̪ɔɾɑ/",
   "type": "verb",
-  "word": "bat etora",
+  "word": "bata etora",
 }
 `;
 
 exports[`Should buildDictionary for:  word: bat etortze type: noun meanings: Verbal noun of bat etorri. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91t%CC%AA%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BEzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91t%CC%AA%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BEzi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91%CB%88t%CC%AAi%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BEzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91%CB%88t%CC%AAi%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BEzi&voice=Jan)",
   "meanings": "Verbal noun of bat etorri.",
   "originWord": "bat etortze",
-  "pronunciation": "/bɑt̪ ɛˈt̪ɔɾzi/",
+  "pronunciation": "/bɑˈt̪i ɛˈt̪ɔɾzi/",
   "type": "noun",
-  "word": "bat etorzi",
+  "word": "bati etorzi",
 }
 `;
 
@@ -5700,12 +5700,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: batasun zibil type: noun meanings: civil union (legal union similar to marriage) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91t%CC%AA%C9%91sun%20zi%CB%88bili&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91t%CC%AA%C9%91sun%20zi%CB%88bili&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%91t%CC%AA%C9%91%CB%88suni%20zi%CB%88bili&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%91t%CC%AA%C9%91%CB%88suni%20zi%CB%88bili&voice=Jan)",
   "meanings": "civil union (legal union similar to marriage)",
   "originWord": "batasun zibil",
-  "pronunciation": "/bɑt̪ɑsun ziˈbili/",
+  "pronunciation": "/bɑt̪ɑˈsuni ziˈbili/",
   "type": "noun",
-  "word": "batasun zibili",
+  "word": "batasuni zibili",
 }
 `;
 
@@ -5920,12 +5920,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: beheko solairu type: noun meanings: ground floor ; first floor (US) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9Bh%C9%9Bk%C9%94%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9Bh%C9%9Bk%C9%94%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B%CB%88h%C9%9Bki%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B%CB%88h%C9%9Bki%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Jan)",
   "meanings": "ground floor ; first floor (US)",
   "originWord": "beheko solairu",
-  "pronunciation": "/bɛhɛkɔ sɔˈlɑɾi/",
+  "pronunciation": "/bɛˈhɛki sɔˈlɑɾi/",
   "type": "noun",
-  "word": "beheko solari",
+  "word": "beheki solari",
 }
 `;
 
@@ -6294,10 +6294,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: bere burua type: pronoun meanings: Third-person singular reflexive pronoun; himself, herself, itself 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B%C9%BE%C9%9B%CB%88%20bu%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B%C9%BE%C9%9B%CB%88%20bu%C9%BE%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Jan)",
   "meanings": "Third-person singular reflexive pronoun; himself, herself, itself",
   "originWord": "bere burua",
-  "pronunciation": "/bɛɾɛˈ buɾɛ/",
+  "pronunciation": "/bɛˈɾɛ buˈɾɛ/",
   "type": "pronoun",
   "word": "bere bure",
 }
@@ -6305,23 +6305,23 @@ Object {
 
 exports[`Should buildDictionary for:  word: beren burua type: pronoun meanings: Third-person plural reflexive pronoun; themselves 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B%C9%BE%C9%9B%CB%88n%20bu%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B%C9%BE%C9%9B%CB%88n%20bu%C9%BE%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B%CB%88%C9%BE%C9%9Bn%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B%CB%88%C9%BE%C9%9Bn%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Jan)",
   "meanings": "Third-person plural reflexive pronoun; themselves",
   "originWord": "beren burua",
-  "pronunciation": "/bɛɾɛˈn buɾɛ/",
+  "pronunciation": "/bɛˈɾɛnɛ buˈɾɛ/",
   "type": "pronoun",
-  "word": "beren bure",
+  "word": "berene bure",
 }
 `;
 
 exports[`Should buildDictionary for:  word: beren buruak type: pronoun meanings: Alternative form of beren burua 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B%C9%BE%C9%9Bn%20bu%CB%88%C9%BEuk%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B%C9%BE%C9%9Bn%20bu%CB%88%C9%BEuk%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B%CB%88%C9%BE%C9%9Bn%C9%9B%20bu%CB%88%C9%BEuk%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B%CB%88%C9%BE%C9%9Bn%C9%9B%20bu%CB%88%C9%BEuk%C9%9B&voice=Jan)",
   "meanings": "Alternative form of beren burua",
   "originWord": "beren buruak",
-  "pronunciation": "/bɛɾɛn buˈɾukɛ/",
+  "pronunciation": "/bɛˈɾɛnɛ buˈɾukɛ/",
   "type": "pronoun",
-  "word": "beren buruke",
+  "word": "berene buruke",
 }
 `;
 
@@ -6349,12 +6349,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: bero egin type: verb meanings: to be hot (weather) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B%C9%BE%C9%94%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B%C9%BE%C9%94%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%9B%CB%88%C9%BE%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%9B%CB%88%C9%BE%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
   "meanings": "to be hot (weather)",
   "originWord": "bero egin",
-  "pronunciation": "/bɛɾɔ ɛˈginɑ/",
+  "pronunciation": "/bɛˈɾɑ ɛˈginɑ/",
   "type": "verb",
-  "word": "bero egina",
+  "word": "bera egina",
 }
 `;
 
@@ -6701,12 +6701,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: bigarren solairu type: noun meanings: second floor (UK) ; third floor (US) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=big%C9%91%C9%BE%C9%9Bn%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=big%C9%91%C9%BE%C9%9Bn%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=big%C9%91%CB%88%C9%BE%C9%9Bni%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=big%C9%91%CB%88%C9%BE%C9%9Bni%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Jan)",
   "meanings": "second floor (UK) ; third floor (US)",
   "originWord": "bigarren solairu",
-  "pronunciation": "/bigɑɾɛn sɔˈlɑɾi/",
+  "pronunciation": "/bigɑˈɾɛni sɔˈlɑɾi/",
   "type": "noun",
-  "word": "bigaren solari",
+  "word": "bigareni solari",
 }
 `;
 
@@ -6921,10 +6921,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: birao egin type: verb meanings: <ol><li>to curse, cuss, swear</li><li>to blaspheme</li></ol> 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=bi%C9%BE%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=bi%C9%BE%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=bi%CB%88%C9%BE%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=bi%CB%88%C9%BE%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
   "meanings": "<ol><li>to curse, cuss, swear</li><li>to blaspheme</li></ol>",
   "originWord": "birao egin",
-  "pronunciation": "/biɾɑ ɛˈginɑ/",
+  "pronunciation": "/biˈɾɑ ɛˈginɑ/",
   "type": "verb",
   "word": "bira egina",
 }
@@ -6976,12 +6976,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: bizi izan type: verb meanings: <ol><li>to live, be alive</li><li>to live somewhere</li><li>to experience, feel</li></ol> 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=bizi%20i%CB%88z%C9%91n%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=bizi%20i%CB%88z%C9%91n%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=bi%CB%88z%C9%91%20i%CB%88z%C9%91n%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=bi%CB%88z%C9%91%20i%CB%88z%C9%91n%C9%91&voice=Jan)",
   "meanings": "<ol><li>to live, be alive</li><li>to live somewhere</li><li>to experience, feel</li></ol>",
   "originWord": "bizi izan",
-  "pronunciation": "/bizi iˈzɑnɑ/",
+  "pronunciation": "/biˈzɑ iˈzɑnɑ/",
   "type": "verb",
-  "word": "bizi izana",
+  "word": "biza izana",
 }
 `;
 
@@ -7185,10 +7185,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: botaka egin type: verb meanings: to vomit 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%94t%CC%AA%C9%91k%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%94t%CC%AA%C9%91k%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=b%C9%94%CB%88t%CC%AA%C9%91k%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=b%C9%94%CB%88t%CC%AA%C9%91k%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
   "meanings": "to vomit",
   "originWord": "botaka egin",
-  "pronunciation": "/bɔt̪ɑkɑ ɛˈginɑ/",
+  "pronunciation": "/bɔˈt̪ɑkɑ ɛˈginɑ/",
   "type": "verb",
   "word": "botaka egina",
 }
@@ -7669,12 +7669,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: deribatu partzial type: noun meanings: partial derivative 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=d%C9%9B%C9%BEib%C9%91t%CC%AAu%20p%C9%91%C9%BE%CB%88zili&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=d%C9%9B%C9%BEib%C9%91t%CC%AAu%20p%C9%91%C9%BE%CB%88zili&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=d%C9%9B%C9%BEi%CB%88b%C9%91t%CC%AAi%20p%C9%91%C9%BE%CB%88zili&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=d%C9%9B%C9%BEi%CB%88b%C9%91t%CC%AAi%20p%C9%91%C9%BE%CB%88zili&voice=Jan)",
   "meanings": "partial derivative",
   "originWord": "deribatu partzial",
-  "pronunciation": "/dɛɾibɑt̪u pɑɾˈzili/",
+  "pronunciation": "/dɛɾiˈbɑt̪i pɑɾˈzili/",
   "type": "noun",
-  "word": "deribatu parzili",
+  "word": "deribati parzili",
 }
 `;
 
@@ -7724,10 +7724,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: deskonposizio gorputz type: noun meanings: (algebra, Galois theory) (of a polynomial) splitting field 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=d%C9%9Bsk%C9%94np%C9%94sizi%20g%C9%94%C9%BE%CB%88puzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=d%C9%9Bsk%C9%94np%C9%94sizi%20g%C9%94%C9%BE%CB%88puzi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=d%C9%9Bsk%C9%94np%C9%94%CB%88sizi%20g%C9%94%C9%BE%CB%88puzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=d%C9%9Bsk%C9%94np%C9%94%CB%88sizi%20g%C9%94%C9%BE%CB%88puzi&voice=Jan)",
   "meanings": "(algebra, Galois theory) (of a polynomial) splitting field",
   "originWord": "deskonposizio gorputz",
-  "pronunciation": "/dɛskɔnpɔsizi gɔɾˈpuzi/",
+  "pronunciation": "/dɛskɔnpɔˈsizi gɔɾˈpuzi/",
   "type": "noun",
   "word": "deskonposizi gorpuzi",
 }
@@ -8362,12 +8362,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: egur-ikatz type: noun meanings: charcoal 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bgui%CB%88k%C9%91zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bgui%CB%88k%C9%91zi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%CB%88gu%C9%BEi%20i%CB%88k%C9%91zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%CB%88gu%C9%BEi%20i%CB%88k%C9%91zi&voice=Jan)",
   "meanings": "charcoal",
   "originWord": "egur-ikatz",
-  "pronunciation": "/ɛguiˈkɑzi/",
+  "pronunciation": "/ɛˈguɾi iˈkɑzi/",
   "type": "noun",
-  "word": "egur-ikazi",
+  "word": "eguri ikazi",
 }
 `;
 
@@ -8703,12 +8703,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: elur jausi type: noun meanings: avalanche 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Blu%CB%88%C9%BE%20h%C9%91si&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Blu%CB%88%C9%BE%20h%C9%91si&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%CB%88lu%C9%BEi%20h%C9%91%CB%88si&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%CB%88lu%C9%BEi%20h%C9%91%CB%88si&voice=Jan)",
   "meanings": "avalanche",
   "originWord": "elur jausi",
-  "pronunciation": "/ɛluˈɾ hɑsi/",
+  "pronunciation": "/ɛˈluɾi hɑˈsi/",
   "type": "noun",
-  "word": "elur hasi",
+  "word": "eluri hasi",
 }
 `;
 
@@ -9231,12 +9231,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: erla- type: prefix meanings: combining form of erle (“bee”) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%C9%BE%CB%88l%C9%91%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%C9%BE%CB%88l%C9%91%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%C9%BE%CB%88l%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%C9%BE%CB%88l%C9%9B&voice=Jan)",
   "meanings": "combining form of erle (“bee”)",
   "originWord": "erla-",
-  "pronunciation": "/ɛɾˈlɑɛ/",
+  "pronunciation": "/ɛɾˈlɛ/",
   "type": "prefix",
-  "word": "erla-e",
+  "word": "erle ",
 }
 `;
 
@@ -9913,12 +9913,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: eskerrik asko type: interjection meanings: thank you 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bsk%C9%9B%C9%BEi%CB%88k%20%C9%91sk%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bsk%C9%9B%C9%BEi%CB%88k%20%C9%91sk%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bsk%C9%9B%CB%88%C9%BEik%C9%9B%20%C9%91s%CB%88k%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bsk%C9%9B%CB%88%C9%BEik%C9%9B%20%C9%91s%CB%88k%C9%9B&voice=Jan)",
   "meanings": "thank you",
   "originWord": "eskerrik asko",
-  "pronunciation": "/ɛskɛɾiˈk ɑskɛ/",
+  "pronunciation": "/ɛskɛˈɾikɛ ɑsˈkɛ/",
   "type": "interjection",
-  "word": "eskerik aske",
+  "word": "eskerike aske",
 }
 `;
 
@@ -10001,12 +10001,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: eskubide zibil type: noun meanings: civil right 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bskubid%C9%9B%20zi%CB%88bili&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bskubid%C9%9B%20zi%CB%88bili&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bsku%CB%88bidi%20zi%CB%88bili&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bsku%CB%88bidi%20zi%CB%88bili&voice=Jan)",
   "meanings": "civil right",
   "originWord": "eskubide zibil",
-  "pronunciation": "/ɛskubidɛ ziˈbili/",
+  "pronunciation": "/ɛskuˈbidi ziˈbili/",
   "type": "noun",
-  "word": "eskubide zibili",
+  "word": "eskubidi zibili",
 }
 `;
 
@@ -10199,12 +10199,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: espazio-ontzi type: noun meanings: spaceship, spacecraft 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bsp%C9%91zi%CB%88%C9%94nzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bsp%C9%91zi%CB%88%C9%94nzi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bs%CB%88p%C9%91zi%20%C9%94n%CB%88zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bs%CB%88p%C9%91zi%20%C9%94n%CB%88zi&voice=Jan)",
   "meanings": "spaceship, spacecraft",
   "originWord": "espazio-ontzi",
-  "pronunciation": "/ɛspɑziˈɔnzi/",
+  "pronunciation": "/ɛsˈpɑzi ɔnˈzi/",
   "type": "noun",
-  "word": "espazi-onzi",
+  "word": "espazi onzi",
 }
 `;
 
@@ -10496,23 +10496,23 @@ Object {
 
 exports[`Should buildDictionary for:  word: etxe-katu type: noun meanings: domestic cat 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bt%CC%AA%CD%A1%CA%83%C9%9B%CB%88k%C9%91t%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bt%CC%AA%CD%A1%CA%83%C9%9B%CB%88k%C9%91t%CC%AAi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%CB%88t%CC%AA%CD%A1%CA%83i%20k%C9%91%CB%88t%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%CB%88t%CC%AA%CD%A1%CA%83i%20k%C9%91%CB%88t%CC%AAi&voice=Jan)",
   "meanings": "domestic cat",
   "originWord": "etxe-katu",
-  "pronunciation": "/ɛt̪͡ʃɛˈkɑt̪i/",
+  "pronunciation": "/ɛˈt̪͡ʃi kɑˈt̪i/",
   "type": "noun",
-  "word": "eje-kati",
+  "word": "eji kati",
 }
 `;
 
 exports[`Should buildDictionary for:  word: etxe-txakur type: noun meanings: domestic dog 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bt%CC%AA%CD%A1%CA%83%C9%9Bt%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bt%CC%AA%CD%A1%CA%83%C9%9Bt%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%CB%88t%CC%AA%CD%A1%CA%83i%20t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%CB%88t%CC%AA%CD%A1%CA%83i%20t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Jan)",
   "meanings": "domestic dog",
   "originWord": "etxe-txakur",
-  "pronunciation": "/ɛt̪͡ʃɛt̪͡ʃɑˈkuɾi/",
+  "pronunciation": "/ɛˈt̪͡ʃi t̪͡ʃɑˈkuɾi/",
   "type": "noun",
-  "word": "eje-jakuri",
+  "word": "eji jakuri",
 }
 `;
 
@@ -10573,23 +10573,23 @@ Object {
 
 exports[`Should buildDictionary for:  word: euren burua type: pronoun meanings: Third-person plural reflexive pronoun; themselves 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%C9%BE%C9%9B%CB%88n%20bu%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%C9%BE%C9%9B%CB%88n%20bu%C9%BE%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%CB%88%C9%BE%C9%9Bn%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%CB%88%C9%BE%C9%9Bn%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Jan)",
   "meanings": "Third-person plural reflexive pronoun; themselves",
   "originWord": "euren burua",
-  "pronunciation": "/ɛɾɛˈn buɾɛ/",
+  "pronunciation": "/ɛˈɾɛnɛ buˈɾɛ/",
   "type": "pronoun",
-  "word": "eren bure",
+  "word": "erene bure",
 }
 `;
 
 exports[`Should buildDictionary for:  word: euren buruak type: pronoun meanings: Alternative form of euren burua 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%C9%BE%C9%9Bn%20bu%CB%88%C9%BEuk%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%C9%BE%C9%9Bn%20bu%CB%88%C9%BEuk%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%CB%88%C9%BE%C9%9Bn%C9%9B%20bu%CB%88%C9%BEuk%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%CB%88%C9%BE%C9%9Bn%C9%9B%20bu%CB%88%C9%BEuk%C9%9B&voice=Jan)",
   "meanings": "Alternative form of euren burua",
   "originWord": "euren buruak",
-  "pronunciation": "/ɛɾɛn buˈɾukɛ/",
+  "pronunciation": "/ɛˈɾɛnɛ buˈɾukɛ/",
   "type": "pronoun",
-  "word": "eren buruke",
+  "word": "erene buruke",
 }
 `;
 
@@ -10727,12 +10727,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: ez horregatik type: interjection meanings: you're welcome 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bz%20h%C9%94%C9%BE%C9%9Bg%C9%91%CB%88t%CC%AAik%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bz%20h%C9%94%C9%BE%C9%9Bg%C9%91%CB%88t%CC%AAik%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B%CB%88z%C9%9B%20h%C9%94%C9%BE%C9%9Bg%C9%91%CB%88t%CC%AAik%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B%CB%88z%C9%9B%20h%C9%94%C9%BE%C9%9Bg%C9%91%CB%88t%CC%AAik%C9%9B&voice=Jan)",
   "meanings": "you're welcome",
   "originWord": "ez horregatik",
-  "pronunciation": "/ɛz hɔɾɛgɑˈt̪ikɛ/",
+  "pronunciation": "/ɛˈzɛ hɔɾɛgɑˈt̪ikɛ/",
   "type": "interjection",
-  "word": "ez horegatike",
+  "word": "eze horegatike",
 }
 `;
 
@@ -11079,12 +11079,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: eztul egin type: verb meanings: to cough 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bzt%CC%AAul%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bzt%CC%AAul%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9Bz%CB%88t%CC%AAul%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9Bz%CB%88t%CC%AAul%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
   "meanings": "to cough",
   "originWord": "eztul egin",
-  "pronunciation": "/ɛzt̪ul ɛˈginɑ/",
+  "pronunciation": "/ɛzˈt̪ulɑ ɛˈginɑ/",
   "type": "verb",
-  "word": "eztul egina",
+  "word": "eztula egina",
 }
 `;
 
@@ -12025,12 +12025,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: gaur egun type: adverb meanings: nowadays 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%91%C9%BE%20%C9%9B%CB%88gun%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%91%C9%BE%20%C9%9B%CB%88gun%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%91%CB%88%C9%BE%C9%94%20%C9%9B%CB%88gun%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%91%CB%88%C9%BE%C9%94%20%C9%9B%CB%88gun%C9%94&voice=Jan)",
   "meanings": "nowadays",
   "originWord": "gaur egun",
-  "pronunciation": "/gɑɾ ɛˈgunɔ/",
+  "pronunciation": "/gɑˈɾɔ ɛˈgunɔ/",
   "type": "adverb",
-  "word": "gar eguno",
+  "word": "garo eguno",
 }
 `;
 
@@ -12047,10 +12047,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: gauza izan type: verb meanings: To have sufficient power, strength, force, skill, means, or resources of any kind to accomplish X; to possess the qualifications rendering competent for some end; to be competent, qualified, able, capable, apt… 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%91z%C9%91%20i%CB%88z%C9%91n%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%91z%C9%91%20i%CB%88z%C9%91n%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%91%CB%88z%C9%91%20i%CB%88z%C9%91n%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%91%CB%88z%C9%91%20i%CB%88z%C9%91n%C9%91&voice=Jan)",
   "meanings": "To have sufficient power, strength, force, skill, means, or resources of any kind to accomplish X; to possess the qualifications rendering competent for some end; to be competent, qualified, able, capable, apt…",
   "originWord": "gauza izan",
-  "pronunciation": "/gɑzɑ iˈzɑnɑ/",
+  "pronunciation": "/gɑˈzɑ iˈzɑnɑ/",
   "type": "verb",
   "word": "gaza izana",
 }
@@ -12311,12 +12311,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: gerra zibil type: noun meanings: civil war 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%9B%C9%BE%C9%91%20zi%CB%88bili&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%9B%C9%BE%C9%91%20zi%CB%88bili&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%9B%CB%88%C9%BEi%20zi%CB%88bili&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%9B%CB%88%C9%BEi%20zi%CB%88bili&voice=Jan)",
   "meanings": "civil war",
   "originWord": "gerra zibil",
-  "pronunciation": "/gɛɾɑ ziˈbili/",
+  "pronunciation": "/gɛˈɾi ziˈbili/",
   "type": "noun",
-  "word": "gera zibili",
+  "word": "geri zibili",
 }
 `;
 
@@ -12344,12 +12344,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: gerta ahala gerta type: adverb meanings: (idiomatic) come what may 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%9B%C9%BEt%CC%AA%C9%91%20%C9%91h%C9%91l%C9%91%CB%88%20g%C9%9B%C9%BEt%CC%AA%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%9B%C9%BEt%CC%AA%C9%91%20%C9%91h%C9%91l%C9%91%CB%88%20g%C9%9B%C9%BEt%CC%AA%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%9B%C9%BE%CB%88t%CC%AA%C9%94%20%C9%91%CB%88h%C9%91l%C9%94%20g%C9%9B%C9%BE%CB%88t%CC%AA%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%9B%C9%BE%CB%88t%CC%AA%C9%94%20%C9%91%CB%88h%C9%91l%C9%94%20g%C9%9B%C9%BE%CB%88t%CC%AA%C9%94&voice=Jan)",
   "meanings": "(idiomatic) come what may",
   "originWord": "gerta ahala gerta",
-  "pronunciation": "/gɛɾt̪ɑ ɑhɑlɑˈ gɛɾt̪ɔ/",
+  "pronunciation": "/gɛɾˈt̪ɔ ɑˈhɑlɔ gɛɾˈt̪ɔ/",
   "type": "adverb",
-  "word": "gerta ahala gerto",
+  "word": "gerto ahalo gerto",
 }
 `;
 
@@ -12377,10 +12377,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: geure burua type: pronoun meanings: First-person plural reflexive pronoun; ourselves 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%9B%C9%BE%C9%9B%CB%88%20bu%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%9B%C9%BE%C9%9B%CB%88%20bu%C9%BE%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Jan)",
   "meanings": "First-person plural reflexive pronoun; ourselves",
   "originWord": "geure burua",
-  "pronunciation": "/gɛɾɛˈ buɾɛ/",
+  "pronunciation": "/gɛˈɾɛ buˈɾɛ/",
   "type": "pronoun",
   "word": "gere bure",
 }
@@ -12388,10 +12388,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: geure buruak type: pronoun meanings: Alternative form of geure burua 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%9B%C9%BE%C9%9B%20bu%CB%88%C9%BEuk%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%9B%C9%BE%C9%9B%20bu%CB%88%C9%BEuk%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BEuk%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BEuk%C9%9B&voice=Jan)",
   "meanings": "Alternative form of geure burua",
   "originWord": "geure buruak",
-  "pronunciation": "/gɛɾɛ buˈɾukɛ/",
+  "pronunciation": "/gɛˈɾɛ buˈɾukɛ/",
   "type": "pronoun",
   "word": "gere buruke",
 }
@@ -12817,12 +12817,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: gorriak ikusi type: verb meanings: (idiomatic) go through hell. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%94%C9%BEik%20i%CB%88kus%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%94%C9%BEik%20i%CB%88kus%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=g%C9%94%CB%88%C9%BEik%C9%91%20i%CB%88kus%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=g%C9%94%CB%88%C9%BEik%C9%91%20i%CB%88kus%C9%91&voice=Jan)",
   "meanings": "(idiomatic) go through hell.",
   "originWord": "gorriak ikusi",
-  "pronunciation": "/gɔɾik iˈkusɑ/",
+  "pronunciation": "/gɔˈɾikɑ iˈkusɑ/",
   "type": "verb",
-  "word": "gorik ikusa",
+  "word": "gorika ikusa",
 }
 `;
 
@@ -12905,12 +12905,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: greba orokor type: noun meanings: general strike 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=gi%C9%BE%C9%9Bb%C9%91%20%C9%94%C9%BE%C9%94%CB%88k%C9%94%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=gi%C9%BE%C9%9Bb%C9%91%20%C9%94%C9%BE%C9%94%CB%88k%C9%94%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=gi%CB%88%C9%BE%C9%9Bbi%20%C9%94%C9%BE%C9%94%CB%88k%C9%94%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=gi%CB%88%C9%BE%C9%9Bbi%20%C9%94%C9%BE%C9%94%CB%88k%C9%94%C9%BEi&voice=Jan)",
   "meanings": "general strike",
   "originWord": "greba orokor",
-  "pronunciation": "/giɾɛbɑ ɔɾɔˈkɔɾi/",
+  "pronunciation": "/giˈɾɛbi ɔɾɔˈkɔɾi/",
   "type": "noun",
-  "word": "gireba orokori",
+  "word": "girebi orokori",
 }
 `;
 
@@ -13026,12 +13026,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: gune itsu type: noun meanings: blind spot 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=gun%C9%9B%CB%88%20isi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=gun%C9%9B%CB%88%20isi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=gu%CB%88ni%20i%CB%88si&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=gu%CB%88ni%20i%CB%88si&voice=Jan)",
   "meanings": "blind spot",
   "originWord": "gune itsu",
-  "pronunciation": "/gunɛˈ isi/",
+  "pronunciation": "/guˈni iˈsi/",
   "type": "noun",
-  "word": "gune isi",
+  "word": "guni isi",
 }
 `;
 
@@ -13202,12 +13202,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: haize-parke type: noun meanings: wind farm 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%91z%C9%9B%CB%88p%C9%91%C9%BEki&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%91z%C9%9B%CB%88p%C9%91%C9%BEki&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%91%CB%88zi%20p%C9%91%C9%BE%CB%88ki&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%91%CB%88zi%20p%C9%91%C9%BE%CB%88ki&voice=Jan)",
   "meanings": "wind farm",
   "originWord": "haize-parke",
-  "pronunciation": "/hɑzɛˈpɑɾki/",
+  "pronunciation": "/hɑˈzi pɑɾˈki/",
   "type": "noun",
-  "word": "haze-parki",
+  "word": "hazi parki",
 }
 `;
 
@@ -13290,12 +13290,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: hara- type: noun meanings: combining form of haragi (“meat”) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%91%CB%88%C9%BE%C9%91i&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%91%CB%88%C9%BE%C9%91i&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%91%CB%88%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%91%CB%88%C9%BEi&voice=Jan)",
   "meanings": "combining form of haragi (“meat”)",
   "originWord": "hara-",
-  "pronunciation": "/hɑˈɾɑi/",
+  "pronunciation": "/hɑˈɾi/",
   "type": "noun",
-  "word": "hara-i",
+  "word": "hari ",
 }
 `;
 
@@ -13334,12 +13334,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: harat- type: prefix meanings: combining form of haragi (“meat”) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%91%CB%88%C9%BE%C9%91%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%91%CB%88%C9%BE%C9%91%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%91%CB%88%C9%BE%C9%91t%CC%AA%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%91%CB%88%C9%BE%C9%91t%CC%AA%C9%9B&voice=Jan)",
   "meanings": "combining form of haragi (“meat”)",
   "originWord": "harat-",
-  "pronunciation": "/hɑˈɾɑɛ/",
+  "pronunciation": "/hɑˈɾɑt̪ɛ/",
   "type": "prefix",
-  "word": "harat-e",
+  "word": "harate ",
 }
 `;
 
@@ -13730,45 +13730,45 @@ Object {
 
 exports[`Should buildDictionary for:  word: hego-ekialde type: noun meanings: southeast 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9Bg%C9%94%C9%9B%CB%88kildi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9Bg%C9%94%C9%9B%CB%88kildi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9B%CB%88gi%20%C9%9B%CB%88kildi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9B%CB%88gi%20%C9%9B%CB%88kildi&voice=Jan)",
   "meanings": "southeast",
   "originWord": "hego-ekialde",
-  "pronunciation": "/hɛgɔɛˈkildi/",
+  "pronunciation": "/hɛˈgi ɛˈkildi/",
   "type": "noun",
-  "word": "hego-ekildi",
+  "word": "hegi ekildi",
 }
 `;
 
 exports[`Should buildDictionary for:  word: hego-mendebal type: noun meanings: southwest 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9Bg%C9%94m%C9%9Bnd%C9%9B%CB%88b%C9%91li&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9Bg%C9%94m%C9%9Bnd%C9%9B%CB%88b%C9%91li&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9B%CB%88gi%20m%C9%9Bnd%C9%9B%CB%88b%C9%91li&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9B%CB%88gi%20m%C9%9Bnd%C9%9B%CB%88b%C9%91li&voice=Jan)",
   "meanings": "southwest",
   "originWord": "hego-mendebal",
-  "pronunciation": "/hɛgɔmɛndɛˈbɑli/",
+  "pronunciation": "/hɛˈgi mɛndɛˈbɑli/",
   "type": "noun",
-  "word": "hego-mendebali",
+  "word": "hegi mendebali",
 }
 `;
 
 exports[`Should buildDictionary for:  word: hego-sartalde type: noun meanings: southwest 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9Bg%C9%94s%C9%91%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9Bg%C9%94s%C9%91%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9B%CB%88gi%20s%C9%91%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9B%CB%88gi%20s%C9%91%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Jan)",
   "meanings": "southwest",
   "originWord": "hego-sartalde",
-  "pronunciation": "/hɛgɔsɑɾˈt̪ɑldi/",
+  "pronunciation": "/hɛˈgi sɑɾˈt̪ɑldi/",
   "type": "noun",
-  "word": "hego-sartaldi",
+  "word": "hegi sartaldi",
 }
 `;
 
 exports[`Should buildDictionary for:  word: hego-sortalde type: noun meanings: southeast 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9Bg%C9%94s%C9%94%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9Bg%C9%94s%C9%94%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9B%CB%88gi%20s%C9%94%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9B%CB%88gi%20s%C9%94%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Jan)",
   "meanings": "southeast",
   "originWord": "hego-sortalde",
-  "pronunciation": "/hɛgɔsɔɾˈt̪ɑldi/",
+  "pronunciation": "/hɛˈgi sɔɾˈt̪ɑldi/",
   "type": "noun",
-  "word": "hego-sortaldi",
+  "word": "hegi sortaldi",
 }
 `;
 
@@ -13950,12 +13950,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: herriko taberna type: noun meanings: (politics) A bar where members of the abertzale left (Basque nationalists) congregate. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9B%C9%BEik%C9%94%20t%CC%AA%C9%91%CB%88b%C9%9B%C9%BEni&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9B%C9%BEik%C9%94%20t%CC%AA%C9%91%CB%88b%C9%9B%C9%BEni&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9B%CB%88%C9%BEiki%20t%CC%AA%C9%91%CB%88b%C9%9B%C9%BEni&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9B%CB%88%C9%BEiki%20t%CC%AA%C9%91%CB%88b%C9%9B%C9%BEni&voice=Jan)",
   "meanings": "(politics) A bar where members of the abertzale left (Basque nationalists) congregate.",
   "originWord": "herriko taberna",
-  "pronunciation": "/hɛɾikɔ t̪ɑˈbɛɾni/",
+  "pronunciation": "/hɛˈɾiki t̪ɑˈbɛɾni/",
   "type": "noun",
-  "word": "heriko taberni",
+  "word": "heriki taberni",
 }
 `;
 
@@ -13972,10 +13972,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: heure burua type: pronoun meanings: (informal, familiar) Second-person singular reflexive pronoun; yourself 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9B%C9%BE%C9%9B%CB%88%20bu%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9B%C9%BE%C9%9B%CB%88%20bu%C9%BE%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Jan)",
   "meanings": "(informal, familiar) Second-person singular reflexive pronoun; yourself",
   "originWord": "heure burua",
-  "pronunciation": "/hɛɾɛˈ buɾɛ/",
+  "pronunciation": "/hɛˈɾɛ buˈɾɛ/",
   "type": "pronoun",
   "word": "here bure",
 }
@@ -13983,12 +13983,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: hezkuntza berezi type: noun meanings: special education 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9Bzkunz%C9%91%20b%C9%9B%CB%88%C9%BE%C9%9Bzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9Bzkunz%C9%91%20b%C9%9B%CB%88%C9%BE%C9%9Bzi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%9Bz%CB%88kunzi%20b%C9%9B%CB%88%C9%BE%C9%9Bzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%9Bz%CB%88kunzi%20b%C9%9B%CB%88%C9%BE%C9%9Bzi&voice=Jan)",
   "meanings": "special education",
   "originWord": "hezkuntza berezi",
-  "pronunciation": "/hɛzkunzɑ bɛˈɾɛzi/",
+  "pronunciation": "/hɛzˈkunzi bɛˈɾɛzi/",
   "type": "noun",
-  "word": "hezkunza berezi",
+  "word": "hezkunzi berezi",
 }
 `;
 
@@ -14313,12 +14313,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: hitz egin type: verb meanings: <ol><li>to speak</li><li>to talk</li></ol> 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=hiz%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=hiz%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=hi%CB%88z%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=hi%CB%88z%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
   "meanings": "<ol><li>to speak</li><li>to talk</li></ol>",
   "originWord": "hitz egin",
-  "pronunciation": "/hiz ɛˈginɑ/",
+  "pronunciation": "/hiˈzɑ ɛˈginɑ/",
   "type": "verb",
-  "word": "hiz egina",
+  "word": "hiza egina",
 }
 `;
 
@@ -14544,12 +14544,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: hotz egin type: verb meanings: to be cold (weather) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%94z%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%94z%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=h%C9%94%CB%88z%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=h%C9%94%CB%88z%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
   "meanings": "to be cold (weather)",
   "originWord": "hotz egin",
-  "pronunciation": "/hɔz ɛˈginɑ/",
+  "pronunciation": "/hɔˈzɑ ɛˈginɑ/",
   "type": "verb",
-  "word": "hoz egina",
+  "word": "hoza egina",
 }
 `;
 
@@ -14621,12 +14621,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: huntz arrunt type: noun meanings: common ivy, English ivy (Hedera helix) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=hunz%20%C9%91%CB%88%C9%BEunt%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=hunz%20%C9%91%CB%88%C9%BEunt%CC%AAi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=hun%CB%88zi%20%C9%91%CB%88%C9%BEunt%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=hun%CB%88zi%20%C9%91%CB%88%C9%BEunt%CC%AAi&voice=Jan)",
   "meanings": "common ivy, English ivy (Hedera helix)",
   "originWord": "huntz arrunt",
-  "pronunciation": "/hunz ɑˈɾunt̪i/",
+  "pronunciation": "/hunˈzi ɑˈɾunt̪i/",
   "type": "noun",
-  "word": "hunz arunti",
+  "word": "hunzi arunti",
 }
 `;
 
@@ -14775,12 +14775,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: i greko type: noun meanings: The name of the Latin-script letter Y. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=i%CB%88%20g%C9%BE%C9%9Bki&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=i%CB%88%20g%C9%BE%C9%9Bki&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=i%20gi%CB%88%C9%BE%C9%9Bki&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=i%20gi%CB%88%C9%BE%C9%9Bki&voice=Jan)",
   "meanings": "The name of the Latin-script letter Y.",
   "originWord": "i greko",
-  "pronunciation": "/iˈ gɾɛki/",
+  "pronunciation": "/i giˈɾɛki/",
   "type": "noun",
-  "word": "i greki",
+  "word": "i gireki",
 }
 `;
 
@@ -15413,10 +15413,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: ilargi bete type: noun meanings: full moon 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=il%C9%91%C9%BEgi%CB%88%20b%C9%9Bt%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=il%C9%91%C9%BEgi%CB%88%20b%C9%9Bt%CC%AAi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=i%CB%88l%C9%91%C9%BEgi%20b%C9%9B%CB%88t%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=i%CB%88l%C9%91%C9%BEgi%20b%C9%9B%CB%88t%CC%AAi&voice=Jan)",
   "meanings": "full moon",
   "originWord": "ilargi bete",
-  "pronunciation": "/ilɑɾgiˈ bɛt̪i/",
+  "pronunciation": "/iˈlɑɾgi bɛˈt̪i/",
   "type": "noun",
   "word": "ilargi beti",
 }
@@ -15875,45 +15875,45 @@ Object {
 
 exports[`Should buildDictionary for:  word: ipar-ekialde type: noun meanings: northeast 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=ip%C9%91%C9%9B%CB%88kildi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=ip%C9%91%C9%9B%CB%88kildi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=i%CB%88p%C9%91%C9%BEi%20%C9%9B%CB%88kildi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=i%CB%88p%C9%91%C9%BEi%20%C9%9B%CB%88kildi&voice=Jan)",
   "meanings": "northeast",
   "originWord": "ipar-ekialde",
-  "pronunciation": "/ipɑɛˈkildi/",
+  "pronunciation": "/iˈpɑɾi ɛˈkildi/",
   "type": "noun",
-  "word": "ipar-ekildi",
+  "word": "ipari ekildi",
 }
 `;
 
 exports[`Should buildDictionary for:  word: ipar-mendebal type: noun meanings: northwest 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=ip%C9%91m%C9%9Bnd%C9%9B%CB%88b%C9%91li&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=ip%C9%91m%C9%9Bnd%C9%9B%CB%88b%C9%91li&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=i%CB%88p%C9%91%C9%BEi%20m%C9%9Bnd%C9%9B%CB%88b%C9%91li&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=i%CB%88p%C9%91%C9%BEi%20m%C9%9Bnd%C9%9B%CB%88b%C9%91li&voice=Jan)",
   "meanings": "northwest",
   "originWord": "ipar-mendebal",
-  "pronunciation": "/ipɑmɛndɛˈbɑli/",
+  "pronunciation": "/iˈpɑɾi mɛndɛˈbɑli/",
   "type": "noun",
-  "word": "ipar-mendebali",
+  "word": "ipari mendebali",
 }
 `;
 
 exports[`Should buildDictionary for:  word: ipar-sartalde type: noun meanings: northwest 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=ip%C9%91s%C9%91%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=ip%C9%91s%C9%91%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=i%CB%88p%C9%91%C9%BEi%20s%C9%91%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=i%CB%88p%C9%91%C9%BEi%20s%C9%91%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Jan)",
   "meanings": "northwest",
   "originWord": "ipar-sartalde",
-  "pronunciation": "/ipɑsɑɾˈt̪ɑldi/",
+  "pronunciation": "/iˈpɑɾi sɑɾˈt̪ɑldi/",
   "type": "noun",
-  "word": "ipar-sartaldi",
+  "word": "ipari sartaldi",
 }
 `;
 
 exports[`Should buildDictionary for:  word: ipar-sortalde type: noun meanings: northeast 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=ip%C9%91s%C9%94%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=ip%C9%91s%C9%94%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=i%CB%88p%C9%91%C9%BEi%20s%C9%94%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=i%CB%88p%C9%91%C9%BEi%20s%C9%94%C9%BE%CB%88t%CC%AA%C9%91ldi&voice=Jan)",
   "meanings": "northeast",
   "originWord": "ipar-sortalde",
-  "pronunciation": "/ipɑsɔɾˈt̪ɑldi/",
+  "pronunciation": "/iˈpɑɾi sɔɾˈt̪ɑldi/",
   "type": "noun",
-  "word": "ipar-sortaldi",
+  "word": "ipari sortaldi",
 }
 `;
 
@@ -16304,12 +16304,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: itsas txakur type: noun meanings: seal 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=is%C9%91s%20t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=is%C9%91s%20t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=i%CB%88s%C9%91si%20t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=i%CB%88s%C9%91si%20t%CC%AA%CD%A1%CA%83%C9%91%CB%88ku%C9%BEi&voice=Jan)",
   "meanings": "seal",
   "originWord": "itsas txakur",
-  "pronunciation": "/isɑs t̪͡ʃɑˈkuɾi/",
+  "pronunciation": "/iˈsɑsi t̪͡ʃɑˈkuɾi/",
   "type": "noun",
-  "word": "isas jakuri",
+  "word": "isasi jakuri",
 }
 `;
 
@@ -16535,12 +16535,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: ixil-ixila type: adverb meanings: quietly 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=i%CA%83ii%CB%88%CA%83il%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=i%CA%83ii%CB%88%CA%83il%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=i%CB%88%CA%83il%C9%94%20i%CB%88%CA%83il%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=i%CB%88%CA%83il%C9%94%20i%CB%88%CA%83il%C9%94&voice=Jan)",
   "meanings": "quietly",
   "originWord": "ixil-ixila",
-  "pronunciation": "/iʃiiˈʃilɔ/",
+  "pronunciation": "/iˈʃilɔ iˈʃilɔ/",
   "type": "adverb",
-  "word": "ixil-ixilo",
+  "word": "ixilo ixilo",
 }
 `;
 
@@ -16557,12 +16557,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: izan ezik type: postposition meanings: except, but 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=iz%C9%91n%20%C9%9B%CB%88zik%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=iz%C9%91n%20%C9%9B%CB%88zik%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=i%CB%88z%C9%91n%C9%9B%20%C9%9B%CB%88zik%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=i%CB%88z%C9%91n%C9%9B%20%C9%9B%CB%88zik%C9%9B&voice=Jan)",
   "meanings": "except, but",
   "originWord": "izan ezik",
-  "pronunciation": "/izɑn ɛˈzikɛ/",
+  "pronunciation": "/iˈzɑnɛ ɛˈzikɛ/",
   "type": "postposition",
-  "word": "izan ezike",
+  "word": "izane ezike",
 }
 `;
 
@@ -16601,12 +16601,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: izatezko bikote type: noun meanings: domestic partnership, common-law marriage (legal union established in the Basque Country in 2003 to regulate the relationships of unmarried cohabiting couples) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=iz%C9%91t%CC%AA%C9%9Bzk%C9%94%20bi%CB%88k%C9%94t%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=iz%C9%91t%CC%AA%C9%9Bzk%C9%94%20bi%CB%88k%C9%94t%CC%AAi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=iz%C9%91%CB%88t%CC%AA%C9%9Bzki%20bi%CB%88k%C9%94t%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=iz%C9%91%CB%88t%CC%AA%C9%9Bzki%20bi%CB%88k%C9%94t%CC%AAi&voice=Jan)",
   "meanings": "domestic partnership, common-law marriage (legal union established in the Basque Country in 2003 to regulate the relationships of unmarried cohabiting couples)",
   "originWord": "izatezko bikote",
-  "pronunciation": "/izɑt̪ɛzkɔ biˈkɔt̪i/",
+  "pronunciation": "/izɑˈt̪ɛzki biˈkɔt̪i/",
   "type": "noun",
-  "word": "izatezko bikoti",
+  "word": "izatezki bikoti",
 }
 `;
 
@@ -17448,12 +17448,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: kardu urdin type: noun meanings: Mediterranean sea holly (Eryngium bourgatii Gouan)[1] 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=k%C9%91%C9%BEdu%20u%C9%BE%CB%88dini&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=k%C9%91%C9%BEdu%20u%C9%BE%CB%88dini&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=k%C9%91%C9%BE%CB%88di%20u%C9%BE%CB%88dini&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=k%C9%91%C9%BE%CB%88di%20u%C9%BE%CB%88dini&voice=Jan)",
   "meanings": "Mediterranean sea holly (Eryngium bourgatii Gouan)[1]",
   "originWord": "kardu urdin",
-  "pronunciation": "/kɑɾdu uɾˈdini/",
+  "pronunciation": "/kɑɾˈdi uɾˈdini/",
   "type": "noun",
-  "word": "kardu urdini",
+  "word": "kardi urdini",
 }
 `;
 
@@ -17536,10 +17536,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: katagorri arrunt type: noun meanings: red squirrel (Sciurus vulgaris) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=k%C9%91t%CC%AA%C9%91g%C9%94%C9%BEi%20%C9%91%CB%88%C9%BEunt%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=k%C9%91t%CC%AA%C9%91g%C9%94%C9%BEi%20%C9%91%CB%88%C9%BEunt%CC%AAi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=k%C9%91t%CC%AA%C9%91%CB%88g%C9%94%C9%BEi%20%C9%91%CB%88%C9%BEunt%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=k%C9%91t%CC%AA%C9%91%CB%88g%C9%94%C9%BEi%20%C9%91%CB%88%C9%BEunt%CC%AAi&voice=Jan)",
   "meanings": "red squirrel (Sciurus vulgaris)",
   "originWord": "katagorri arrunt",
-  "pronunciation": "/kɑt̪ɑgɔɾi ɑˈɾunt̪i/",
+  "pronunciation": "/kɑt̪ɑˈgɔɾi ɑˈɾunt̪i/",
   "type": "noun",
   "word": "katagori arunti",
 }
@@ -17690,12 +17690,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: kilo- type: prefix meanings: kilo- 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=ki%CB%88l%C9%94%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=ki%CB%88l%C9%94%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=ki%CB%88l%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=ki%CB%88l%C9%9B&voice=Jan)",
   "meanings": "kilo-",
   "originWord": "kilo-",
-  "pronunciation": "/kiˈlɔɛ/",
+  "pronunciation": "/kiˈlɛ/",
   "type": "prefix",
-  "word": "kilo-e",
+  "word": "kile ",
 }
 `;
 
@@ -17976,12 +17976,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: kontrol-dorre type: noun meanings: (aviation) control tower 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=k%C9%94n%C9%BE%C9%94%CB%88d%C9%94%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=k%C9%94n%C9%BE%C9%94%CB%88d%C9%94%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=k%C9%94n%CB%88%C9%BE%C9%94li%20d%C9%94%CB%88%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=k%C9%94n%CB%88%C9%BE%C9%94li%20d%C9%94%CB%88%C9%BEi&voice=Jan)",
   "meanings": "(aviation) control tower",
   "originWord": "kontrol-dorre",
-  "pronunciation": "/kɔnɾɔˈdɔɾi/",
+  "pronunciation": "/kɔnˈɾɔli dɔˈɾi/",
   "type": "noun",
-  "word": "konrol-dori",
+  "word": "konroli dori",
 }
 `;
 
@@ -18141,12 +18141,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: kuku-porru type: noun meanings: foxglove 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=kuku%CB%88p%C9%94%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=kuku%CB%88p%C9%94%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=ku%CB%88ki%20p%C9%94%CB%88%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=ku%CB%88ki%20p%C9%94%CB%88%C9%BEi&voice=Jan)",
   "meanings": "foxglove",
   "originWord": "kuku-porru",
-  "pronunciation": "/kukuˈpɔɾi/",
+  "pronunciation": "/kuˈki pɔˈɾi/",
   "type": "noun",
-  "word": "kuku-pori",
+  "word": "kuki pori",
 }
 `;
 
@@ -18262,12 +18262,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: labe garai type: noun meanings: blast furnace 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=l%C9%91b%C9%9B%CB%88%20g%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=l%C9%91b%C9%9B%CB%88%20g%C9%91%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=l%C9%91%CB%88bi%20g%C9%91%CB%88%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=l%C9%91%CB%88bi%20g%C9%91%CB%88%C9%BEi&voice=Jan)",
   "meanings": "blast furnace",
   "originWord": "labe garai",
-  "pronunciation": "/lɑbɛˈ gɑɾi/",
+  "pronunciation": "/lɑˈbi gɑˈɾi/",
   "type": "noun",
-  "word": "labe gari",
+  "word": "labi gari",
 }
 `;
 
@@ -18471,12 +18471,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: landare-ikatz type: noun meanings: charcoal 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=l%C9%91nd%C9%91%C9%BE%C9%9Bi%CB%88k%C9%91zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=l%C9%91nd%C9%91%C9%BE%C9%9Bi%CB%88k%C9%91zi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=l%C9%91n%CB%88d%C9%91%C9%BEi%20i%CB%88k%C9%91zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=l%C9%91n%CB%88d%C9%91%C9%BEi%20i%CB%88k%C9%91zi&voice=Jan)",
   "meanings": "charcoal",
   "originWord": "landare-ikatz",
-  "pronunciation": "/lɑndɑɾɛiˈkɑzi/",
+  "pronunciation": "/lɑnˈdɑɾi iˈkɑzi/",
   "type": "noun",
-  "word": "landare-ikazi",
+  "word": "landari ikazi",
 }
 `;
 
@@ -18834,12 +18834,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: lehen solairu type: noun meanings: first floor (UK) ; second floor (US) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=l%C9%9Bh%C9%9Bn%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=l%C9%9Bh%C9%9Bn%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=l%C9%9B%CB%88h%C9%9Bni%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=l%C9%9B%CB%88h%C9%9Bni%20s%C9%94%CB%88l%C9%91%C9%BEi&voice=Jan)",
   "meanings": "first floor (UK) ; second floor (US)",
   "originWord": "lehen solairu",
-  "pronunciation": "/lɛhɛn sɔˈlɑɾi/",
+  "pronunciation": "/lɛˈhɛni sɔˈlɑɾi/",
   "type": "noun",
-  "word": "lehen solari",
+  "word": "leheni solari",
 }
 `;
 
@@ -19230,12 +19230,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: lo egin type: verb meanings: to sleep 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=l%C9%94%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=l%C9%94%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=l%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=l%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
   "meanings": "to sleep",
   "originWord": "lo egin",
-  "pronunciation": "/lɔ ɛˈginɑ/",
+  "pronunciation": "/lɑ ɛˈginɑ/",
   "type": "verb",
-  "word": "lo egina",
+  "word": "la egina",
 }
 `;
 
@@ -19329,12 +19329,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: lore-hauts type: noun meanings: pollen 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=l%C9%94%C9%BE%C9%9B%CB%88h%C9%91si&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=l%C9%94%C9%BE%C9%9B%CB%88h%C9%91si&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=l%C9%94%CB%88%C9%BEi%20h%C9%91%CB%88si&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=l%C9%94%CB%88%C9%BEi%20h%C9%91%CB%88si&voice=Jan)",
   "meanings": "pollen",
   "originWord": "lore-hauts",
-  "pronunciation": "/lɔɾɛˈhɑsi/",
+  "pronunciation": "/lɔˈɾi hɑˈsi/",
   "type": "noun",
-  "word": "lore-hasi",
+  "word": "lori hasi",
 }
 `;
 
@@ -19461,23 +19461,23 @@ Object {
 
 exports[`Should buildDictionary for:  word: m- type: prefix meanings: Non-productive expressive prefix. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=m%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=m%C9%9B&voice=Jan)",
   "meanings": "Non-productive expressive prefix.",
   "originWord": "m-",
-  "pronunciation": "/ɛ/",
+  "pronunciation": "/mɛ/",
   "type": "prefix",
-  "word": "m-e",
+  "word": "me ",
 }
 `;
 
 exports[`Should buildDictionary for:  word: ma- type: prefix meanings: Non-productive prefix without a specific meaning. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=m%C9%91%CB%88%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=m%C9%91%CB%88%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=m%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=m%C9%9B&voice=Jan)",
   "meanings": "Non-productive prefix without a specific meaning.",
   "originWord": "ma-",
-  "pronunciation": "/mɑˈɛ/",
+  "pronunciation": "/mɛ/",
   "type": "prefix",
-  "word": "ma-e",
+  "word": "me ",
 }
 `;
 
@@ -19593,12 +19593,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: maite izan type: verb meanings: <ol><li>love</li><li>like</li></ol> 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=m%C9%91t%CC%AA%C9%9B%20i%CB%88z%C9%91n%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=m%C9%91t%CC%AA%C9%9B%20i%CB%88z%C9%91n%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=m%C9%91%CB%88t%CC%AA%C9%91%20i%CB%88z%C9%91n%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=m%C9%91%CB%88t%CC%AA%C9%91%20i%CB%88z%C9%91n%C9%91&voice=Jan)",
   "meanings": "<ol><li>love</li><li>like</li></ol>",
   "originWord": "maite izan",
-  "pronunciation": "/mɑt̪ɛ iˈzɑnɑ/",
+  "pronunciation": "/mɑˈt̪ɑ iˈzɑnɑ/",
   "type": "verb",
-  "word": "mate izana",
+  "word": "mata izana",
 }
 `;
 
@@ -20231,12 +20231,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: mila esker type: interjection meanings: thanks, thank you, many thanks, thanks a million, thanks a bunch, thanks a lot 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=mil%C9%91%20%C9%9Bs%CB%88k%C9%9B%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=mil%C9%91%20%C9%9Bs%CB%88k%C9%9B%C9%BE%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=mi%CB%88l%C9%9B%20%C9%9Bs%CB%88k%C9%9B%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=mi%CB%88l%C9%9B%20%C9%9Bs%CB%88k%C9%9B%C9%BE%C9%9B&voice=Jan)",
   "meanings": "thanks, thank you, many thanks, thanks a million, thanks a bunch, thanks a lot",
   "originWord": "mila esker",
-  "pronunciation": "/milɑ ɛsˈkɛɾɛ/",
+  "pronunciation": "/miˈlɛ ɛsˈkɛɾɛ/",
   "type": "interjection",
-  "word": "mila eskere",
+  "word": "mile eskere",
 }
 `;
 
@@ -20759,12 +20759,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: nahi izan type: verb meanings: to want 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%91hi%20i%CB%88z%C9%91n%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%91hi%20i%CB%88z%C9%91n%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%91%CB%88h%C9%91%20i%CB%88z%C9%91n%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%91%CB%88h%C9%91%20i%CB%88z%C9%91n%C9%91&voice=Jan)",
   "meanings": "to want",
   "originWord": "nahi izan",
-  "pronunciation": "/nɑhi iˈzɑnɑ/",
+  "pronunciation": "/nɑˈhɑ iˈzɑnɑ/",
   "type": "verb",
-  "word": "nahi izana",
+  "word": "naha izana",
 }
 `;
 
@@ -21067,10 +21067,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: neure burua type: pronoun meanings: First-person singular reflexive pronoun; myself 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%9B%C9%BE%C9%9B%CB%88%20bu%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%9B%C9%BE%C9%9B%CB%88%20bu%C9%BE%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Jan)",
   "meanings": "First-person singular reflexive pronoun; myself",
   "originWord": "neure burua",
-  "pronunciation": "/nɛɾɛˈ buɾɛ/",
+  "pronunciation": "/nɛˈɾɛ buˈɾɛ/",
   "type": "pronoun",
   "word": "nere bure",
 }
@@ -21155,34 +21155,34 @@ Object {
 
 exports[`Should buildDictionary for:  word: nor nori nork type: adjective meanings: (grammatical term, used as a modifier) (of a verb) taking absolutive, dative  and ergative agreement, transitive with an indirect object 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94%C9%BE%20n%C9%94%C9%BEi%CB%88%20n%C9%94%C9%BEk%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94%C9%BE%20n%C9%94%C9%BEi%CB%88%20n%C9%94%C9%BEk%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%C9%BE%CB%88k%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%C9%BE%CB%88k%C9%94&voice=Jan)",
   "meanings": "(grammatical term, used as a modifier) (of a verb) taking absolutive, dative  and ergative agreement, transitive with an indirect object",
   "originWord": "nor nori nork",
-  "pronunciation": "/nɔɾ nɔɾiˈ nɔɾkɔ/",
+  "pronunciation": "/nɔˈɾɔ nɔˈɾɔ nɔɾˈkɔ/",
   "type": "adjective",
-  "word": "nor nori norko",
+  "word": "noro noro norko",
 }
 `;
 
 exports[`Should buildDictionary for:  word: nor nori type: adjective meanings: (grammatical term) (of a verb) intransitive with a dative argument 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%20n%C9%94%C9%BE%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%20n%C9%94%C9%BE%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%CB%88%C9%BE%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%CB%88%C9%BE%C9%94&voice=Jan)",
   "meanings": "(grammatical term) (of a verb) intransitive with a dative argument",
   "originWord": "nor nori",
-  "pronunciation": "/nɔˈɾ nɔɾɔ/",
+  "pronunciation": "/nɔˈɾɔ nɔˈɾɔ/",
   "type": "adjective",
-  "word": "nor noro",
+  "word": "noro noro",
 }
 `;
 
 exports[`Should buildDictionary for:  word: nor nork type: adjective meanings: (grammatical term, used as a modifier) (of a verb) taking both absolutive and ergative agreement but no dative; transitive without an indirect object 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%20n%C9%94%C9%BEk%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%20n%C9%94%C9%BEk%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%C9%BE%CB%88k%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%C9%BE%CB%88k%C9%94&voice=Jan)",
   "meanings": "(grammatical term, used as a modifier) (of a verb) taking both absolutive and ergative agreement but no dative; transitive without an indirect object",
   "originWord": "nor nork",
-  "pronunciation": "/nɔˈɾ nɔɾkɔ/",
+  "pronunciation": "/nɔˈɾɔ nɔɾˈkɔ/",
   "type": "adjective",
-  "word": "nor norko",
+  "word": "noro norko",
 }
 `;
 
@@ -21210,34 +21210,34 @@ Object {
 
 exports[`Should buildDictionary for:  word: nor-nori type: adjective meanings: Alternative spelling of nor nori. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94%CB%88n%C9%94%C9%BE%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94%CB%88n%C9%94%C9%BE%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%CB%88%C9%BE%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%CB%88%C9%BE%C9%94&voice=Jan)",
   "meanings": "Alternative spelling of nor nori.",
   "originWord": "nor-nori",
-  "pronunciation": "/nɔˈnɔɾɔ/",
+  "pronunciation": "/nɔˈɾɔ nɔˈɾɔ/",
   "type": "adjective",
-  "word": "nor-noro",
+  "word": "noro noro",
 }
 `;
 
 exports[`Should buildDictionary for:  word: nor-nori-nork type: adjective meanings: Alternative spelling of nor nori nork. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94n%C9%94%C9%BEi%CB%88n%C9%94%C9%BEk%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94n%C9%94%C9%BEi%CB%88n%C9%94%C9%BEk%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%C9%BE%CB%88k%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%C9%BE%CB%88k%C9%94&voice=Jan)",
   "meanings": "Alternative spelling of nor nori nork.",
   "originWord": "nor-nori-nork",
-  "pronunciation": "/nɔnɔɾiˈnɔɾkɔ/",
+  "pronunciation": "/nɔˈɾɔ nɔˈɾɔ nɔɾˈkɔ/",
   "type": "adjective",
-  "word": "nor-nori-norko",
+  "word": "noro noro norko",
 }
 `;
 
 exports[`Should buildDictionary for:  word: nor-nork type: adjective meanings: Alternative spelling of nor nork. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94%CB%88n%C9%94%C9%BEk%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94%CB%88n%C9%94%C9%BEk%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%C9%BE%CB%88k%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=n%C9%94%CB%88%C9%BE%C9%94%20n%C9%94%C9%BE%CB%88k%C9%94&voice=Jan)",
   "meanings": "Alternative spelling of nor nork.",
   "originWord": "nor-nork",
-  "pronunciation": "/nɔˈnɔɾkɔ/",
+  "pronunciation": "/nɔˈɾɔ nɔɾˈkɔ/",
   "type": "adjective",
-  "word": "nor-norko",
+  "word": "noro norko",
 }
 `;
 
@@ -21276,12 +21276,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: o- type: prefix meanings: combining form of ogi (“bread”) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94%CB%88%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94%CB%88%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B&voice=Jan)",
   "meanings": "combining form of ogi (“bread”)",
   "originWord": "o-",
-  "pronunciation": "/ɔˈɛ/",
+  "pronunciation": "/ɛ/",
   "type": "prefix",
-  "word": "o-e",
+  "word": "e ",
 }
 `;
 
@@ -21353,12 +21353,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: ohean sartu type: verb meanings: get into bed 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94h%C9%9B%CB%88n%20s%C9%91%C9%BEt%CC%AA%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94h%C9%9B%CB%88n%20s%C9%91%C9%BEt%CC%AA%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94%CB%88h%C9%9Bn%C9%91%20s%C9%91%C9%BE%CB%88t%CC%AA%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94%CB%88h%C9%9Bn%C9%91%20s%C9%91%C9%BE%CB%88t%CC%AA%C9%91&voice=Jan)",
   "meanings": "get into bed",
   "originWord": "ohean sartu",
-  "pronunciation": "/ɔhɛˈn sɑɾt̪ɑ/",
+  "pronunciation": "/ɔˈhɛnɑ sɑɾˈt̪ɑ/",
   "type": "verb",
-  "word": "ohen sarta",
+  "word": "ohena sarta",
 }
 `;
 
@@ -21452,10 +21452,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: oka egin type: verb meanings: to vomit, throw up 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94k%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94k%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94%CB%88k%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94%CB%88k%C9%91%20%C9%9B%CB%88gin%C9%91&voice=Jan)",
   "meanings": "to vomit, throw up",
   "originWord": "oka egin",
-  "pronunciation": "/ɔkɑ ɛˈginɑ/",
+  "pronunciation": "/ɔˈkɑ ɛˈginɑ/",
   "type": "verb",
   "word": "oka egina",
 }
@@ -21650,12 +21650,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: ongi etorri type: interjection meanings: welcome 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94ngi%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94ngi%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BE%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94n%CB%88g%C9%9B%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94n%CB%88g%C9%9B%20%C9%9B%CB%88t%CC%AA%C9%94%C9%BE%C9%9B&voice=Jan)",
   "meanings": "welcome",
   "originWord": "ongi etorri",
-  "pronunciation": "/ɔngi ɛˈt̪ɔɾɛ/",
+  "pronunciation": "/ɔnˈgɛ ɛˈt̪ɔɾɛ/",
   "type": "interjection",
-  "word": "ongi etore",
+  "word": "onge etore",
 }
 `;
 
@@ -21848,10 +21848,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: orientazio sexual type: noun meanings: sexual orientation 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94%C9%BEint%CC%AA%C9%91zi%20s%C9%9B%CB%88%CA%83uli&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94%C9%BEint%CC%AA%C9%91zi%20s%C9%9B%CB%88%CA%83uli&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94%C9%BEin%CB%88t%CC%AA%C9%91zi%20s%C9%9B%CB%88%CA%83uli&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94%C9%BEin%CB%88t%CC%AA%C9%91zi%20s%C9%9B%CB%88%CA%83uli&voice=Jan)",
   "meanings": "sexual orientation",
   "originWord": "orientazio sexual",
-  "pronunciation": "/ɔɾint̪ɑzi sɛˈʃuli/",
+  "pronunciation": "/ɔɾinˈt̪ɑzi sɛˈʃuli/",
   "type": "noun",
   "word": "orintazi sexuli",
 }
@@ -22200,12 +22200,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: ot- type: prefix meanings: combining form of ogi (“bread”) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94%CB%88%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94%CB%88%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94%CB%88t%CC%AA%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94%CB%88t%CC%AA%C9%9B&voice=Jan)",
   "meanings": "combining form of ogi (“bread”)",
   "originWord": "ot-",
-  "pronunciation": "/ɔˈɛ/",
+  "pronunciation": "/ɔˈt̪ɛ/",
   "type": "prefix",
-  "word": "ot-e",
+  "word": "ote ",
 }
 `;
 
@@ -22299,12 +22299,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: otso-gizon type: noun meanings: werewolf 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94s%C9%94gi%CB%88z%C9%94ni&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94s%C9%94gi%CB%88z%C9%94ni&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%94%CB%88si%20gi%CB%88z%C9%94ni&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%94%CB%88si%20gi%CB%88z%C9%94ni&voice=Jan)",
   "meanings": "werewolf",
   "originWord": "otso-gizon",
-  "pronunciation": "/ɔsɔgiˈzɔni/",
+  "pronunciation": "/ɔˈsi giˈzɔni/",
   "type": "noun",
-  "word": "oso-gizoni",
+  "word": "osi gizoni",
 }
 `;
 
@@ -22629,12 +22629,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: pil-pil type: interjection meanings: <ol><li>(onomatopoeia) thump-thump, lub-dub (the sound of a heart beating)</li><li>(onomatopoeia) Imitation of boiling.</li></ol> 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=pi%CB%88pil%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=pi%CB%88pil%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=pi%CB%88l%C9%9B%20pi%CB%88l%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=pi%CB%88l%C9%9B%20pi%CB%88l%C9%9B&voice=Jan)",
   "meanings": "<ol><li>(onomatopoeia) thump-thump, lub-dub (the sound of a heart beating)</li><li>(onomatopoeia) Imitation of boiling.</li></ol>",
   "originWord": "pil-pil",
-  "pronunciation": "/piˈpilɛ/",
+  "pronunciation": "/piˈlɛ piˈlɛ/",
   "type": "interjection",
-  "word": "pil-pile",
+  "word": "pile pile",
 }
 `;
 
@@ -22959,12 +22959,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: porru-hazi type: noun meanings: (informal) benefit, profit, gain 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=p%C9%94%C9%BEu%CB%88h%C9%91zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=p%C9%94%C9%BEu%CB%88h%C9%91zi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=p%C9%94%CB%88%C9%BEi%20h%C9%91%CB%88zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=p%C9%94%CB%88%C9%BEi%20h%C9%91%CB%88zi&voice=Jan)",
   "meanings": "(informal) benefit, profit, gain",
   "originWord": "porru-hazi",
-  "pronunciation": "/pɔɾuˈhɑzi/",
+  "pronunciation": "/pɔˈɾi hɑˈzi/",
   "type": "noun",
-  "word": "poru-hazi",
+  "word": "pori hazi",
 }
 `;
 
@@ -23080,10 +23080,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: pota bota type: verb meanings: to vomit 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=p%C9%94t%CC%AA%C9%91%CB%88%20b%C9%94t%CC%AA%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=p%C9%94t%CC%AA%C9%91%CB%88%20b%C9%94t%CC%AA%C9%91&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=p%C9%94%CB%88t%CC%AA%C9%91%20b%C9%94%CB%88t%CC%AA%C9%91&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=p%C9%94%CB%88t%CC%AA%C9%91%20b%C9%94%CB%88t%CC%AA%C9%91&voice=Jan)",
   "meanings": "to vomit",
   "originWord": "pota bota",
-  "pronunciation": "/pɔt̪ɑˈ bɔt̪ɑ/",
+  "pronunciation": "/pɔˈt̪ɑ bɔˈt̪ɑ/",
   "type": "verb",
   "word": "pota bota",
 }
@@ -23839,12 +23839,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: sexu-joera type: noun meanings: sexual orientation 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=s%C9%9B%CA%83u%CB%88h%C9%94%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=s%C9%9B%CA%83u%CB%88h%C9%94%C9%BEi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=s%C9%9B%CB%88%CA%83i%20h%C9%94%CB%88%C9%BEi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=s%C9%9B%CB%88%CA%83i%20h%C9%94%CB%88%C9%BEi&voice=Jan)",
   "meanings": "sexual orientation",
   "originWord": "sexu-joera",
-  "pronunciation": "/sɛʃuˈhɔɾi/",
+  "pronunciation": "/sɛˈʃi hɔˈɾi/",
   "type": "noun",
-  "word": "sexu-hori",
+  "word": "sexi hori",
 }
 `;
 
@@ -24598,12 +24598,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: tele- type: prefix meanings: <ol><li>tele- (over a distance)</li><li>tele- (relating to television)</li></ol> 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=t%CC%AA%C9%9B%CB%88l%C9%9B%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=t%CC%AA%C9%9B%CB%88l%C9%9B%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=t%CC%AA%C9%9B%CB%88l%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=t%CC%AA%C9%9B%CB%88l%C9%9B&voice=Jan)",
   "meanings": "<ol><li>tele- (over a distance)</li><li>tele- (relating to television)</li></ol>",
   "originWord": "tele-",
-  "pronunciation": "/t̪ɛˈlɛɛ/",
+  "pronunciation": "/t̪ɛˈlɛ/",
   "type": "prefix",
-  "word": "tele-e",
+  "word": "tele ",
 }
 `;
 
@@ -24983,12 +24983,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: ttaka-ttaka type: adverb meanings: step by step 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=k%C9%91k%C9%91%CB%88k%C9%91k%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=k%C9%91k%C9%91%CB%88k%C9%91k%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=k%C9%91%CB%88k%C9%94%20k%C9%91%CB%88k%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=k%C9%91%CB%88k%C9%94%20k%C9%91%CB%88k%C9%94&voice=Jan)",
   "meanings": "step by step",
   "originWord": "ttaka-ttaka",
-  "pronunciation": "/kɑkɑˈkɑkɔ/",
+  "pronunciation": "/kɑˈkɔ kɑˈkɔ/",
   "type": "adverb",
-  "word": "kaka-kako",
+  "word": "kako kako",
 }
 `;
 
@@ -25357,12 +25357,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: txin-txin type: interjection meanings: <ol><li>clink</li><li>cheers (toast when drinking alcohol)</li></ol> 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=t%CC%AA%CD%A1%CA%83i%CB%88t%CC%AA%CD%A1%CA%83in%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=t%CC%AA%CD%A1%CA%83i%CB%88t%CC%AA%CD%A1%CA%83in%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=t%CC%AA%CD%A1%CA%83i%CB%88n%C9%9B%20t%CC%AA%CD%A1%CA%83i%CB%88n%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=t%CC%AA%CD%A1%CA%83i%CB%88n%C9%9B%20t%CC%AA%CD%A1%CA%83i%CB%88n%C9%9B&voice=Jan)",
   "meanings": "<ol><li>clink</li><li>cheers (toast when drinking alcohol)</li></ol>",
   "originWord": "txin-txin",
-  "pronunciation": "/t̪͡ʃiˈt̪͡ʃinɛ/",
+  "pronunciation": "/t̪͡ʃiˈnɛ t̪͡ʃiˈnɛ/",
   "type": "interjection",
-  "word": "jin-jine",
+  "word": "jine jine",
 }
 `;
 
@@ -25533,12 +25533,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: u- type: prefix meanings: combining form of ur (“water”) 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=u%CB%88%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=u%CB%88%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=%C9%9B&voice=Jan)",
   "meanings": "combining form of ur (“water”)",
   "originWord": "u-",
-  "pronunciation": "/uˈɛ/",
+  "pronunciation": "/ɛ/",
   "type": "prefix",
-  "word": "u-e",
+  "word": "e ",
 }
 `;
 
@@ -26270,12 +26270,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: uve bikoitz type: noun meanings: The name of the Latin-script letter W. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=uv%C9%9B%20bi%CB%88k%C9%94zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=uv%C9%9B%20bi%CB%88k%C9%94zi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=u%CB%88vi%20bi%CB%88k%C9%94zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=u%CB%88vi%20bi%CB%88k%C9%94zi&voice=Jan)",
   "meanings": "The name of the Latin-script letter W.",
   "originWord": "uve bikoitz",
-  "pronunciation": "/uvɛ biˈkɔzi/",
+  "pronunciation": "/uˈvi biˈkɔzi/",
   "type": "noun",
-  "word": "uve bikozi",
+  "word": "uvi bikozi",
 }
 `;
 
@@ -26479,12 +26479,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: zain eta muin type: adverb meanings: <ol><li>(figuratively) tooth and nail</li><li>(figuratively) deeply, totally</li></ol> 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=z%C9%91n%20%C9%9Bt%CC%AA%C9%91%CB%88%20mun%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=z%C9%91n%20%C9%9Bt%CC%AA%C9%91%CB%88%20mun%C9%94&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=z%C9%91%CB%88n%C9%94%20%C9%9B%CB%88t%CC%AA%C9%94%20mu%CB%88n%C9%94&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=z%C9%91%CB%88n%C9%94%20%C9%9B%CB%88t%CC%AA%C9%94%20mu%CB%88n%C9%94&voice=Jan)",
   "meanings": "<ol><li>(figuratively) tooth and nail</li><li>(figuratively) deeply, totally</li></ol>",
   "originWord": "zain eta muin",
-  "pronunciation": "/zɑn ɛt̪ɑˈ munɔ/",
+  "pronunciation": "/zɑˈnɔ ɛˈt̪ɔ muˈnɔ/",
   "type": "adverb",
-  "word": "zan eta muno",
+  "word": "zano eto muno",
 }
 `;
 
@@ -26820,12 +26820,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: ze hautsi type: noun meanings: The name of the Latin-script letter Ç. 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=z%C9%9B%CB%88%20h%C9%91si&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=z%C9%9B%CB%88%20h%C9%91si&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=zi%20h%C9%91%CB%88si&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=zi%20h%C9%91%CB%88si&voice=Jan)",
   "meanings": "The name of the Latin-script letter Ç.",
   "originWord": "ze hautsi",
-  "pronunciation": "/zɛˈ hɑsi/",
+  "pronunciation": "/zi hɑˈsi/",
   "type": "noun",
-  "word": "ze hasi",
+  "word": "zi hasi",
 }
 `;
 
@@ -26875,10 +26875,10 @@ Object {
 
 exports[`Should buildDictionary for:  word: zenbaki lehen type: noun meanings: (mathematics) prime number 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=z%C9%9Bnb%C9%91ki%20l%C9%9B%CB%88h%C9%9Bni&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=z%C9%9Bnb%C9%91ki%20l%C9%9B%CB%88h%C9%9Bni&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=z%C9%9Bn%CB%88b%C9%91ki%20l%C9%9B%CB%88h%C9%9Bni&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=z%C9%9Bn%CB%88b%C9%91ki%20l%C9%9B%CB%88h%C9%9Bni&voice=Jan)",
   "meanings": "(mathematics) prime number",
   "originWord": "zenbaki lehen",
-  "pronunciation": "/zɛnbɑki lɛˈhɛni/",
+  "pronunciation": "/zɛnˈbɑki lɛˈhɛni/",
   "type": "noun",
   "word": "zenbaki leheni",
 }
@@ -27040,32 +27040,32 @@ Object {
 
 exports[`Should buildDictionary for:  word: zeuen burua type: pronoun meanings: Second-person plural reflexive pronoun; yourselves 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=z%C9%9Bs%C9%9B%CB%88n%20bu%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=z%C9%9Bs%C9%9B%CB%88n%20bu%C9%BE%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=z%C9%9B%CB%88s%C9%9Bn%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=z%C9%9B%CB%88s%C9%9Bn%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Jan)",
   "meanings": "Second-person plural reflexive pronoun; yourselves",
   "originWord": "zeuen burua",
-  "pronunciation": "/zɛsɛˈn buɾɛ/",
+  "pronunciation": "/zɛˈsɛnɛ buˈɾɛ/",
   "type": "pronoun",
-  "word": "zesen bure",
+  "word": "zesene bure",
 }
 `;
 
 exports[`Should buildDictionary for:  word: zeuen buruak type: pronoun meanings: Alternative form of zeuen burua 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=z%C9%9Bs%C9%9Bn%20bu%CB%88%C9%BEuk%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=z%C9%9Bs%C9%9Bn%20bu%CB%88%C9%BEuk%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=z%C9%9B%CB%88s%C9%9Bn%C9%9B%20bu%CB%88%C9%BEuk%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=z%C9%9B%CB%88s%C9%9Bn%C9%9B%20bu%CB%88%C9%BEuk%C9%9B&voice=Jan)",
   "meanings": "Alternative form of zeuen burua",
   "originWord": "zeuen buruak",
-  "pronunciation": "/zɛsɛn buˈɾukɛ/",
+  "pronunciation": "/zɛˈsɛnɛ buˈɾukɛ/",
   "type": "pronoun",
-  "word": "zesen buruke",
+  "word": "zesene buruke",
 }
 `;
 
 exports[`Should buildDictionary for:  word: zeure burua type: pronoun meanings: Second-person singular reflexive pronoun; yourself 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=z%C9%9B%C9%BE%C9%9B%CB%88%20bu%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=z%C9%9B%C9%BE%C9%9B%CB%88%20bu%C9%BE%C9%9B&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=z%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=z%C9%9B%CB%88%C9%BE%C9%9B%20bu%CB%88%C9%BE%C9%9B&voice=Jan)",
   "meanings": "Second-person singular reflexive pronoun; yourself",
   "originWord": "zeure burua",
-  "pronunciation": "/zɛɾɛˈ buɾɛ/",
+  "pronunciation": "/zɛˈɾɛ buˈɾɛ/",
   "type": "pronoun",
   "word": "zere bure",
 }
@@ -27590,12 +27590,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: zulo beltz type: noun meanings: (astronomy) black hole 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=zul%C9%94%CB%88%20b%C9%9Blzi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=zul%C9%94%CB%88%20b%C9%9Blzi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=zu%CB%88li%20b%C9%9Bl%CB%88zi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=zu%CB%88li%20b%C9%9Bl%CB%88zi&voice=Jan)",
   "meanings": "(astronomy) black hole",
   "originWord": "zulo beltz",
-  "pronunciation": "/zulɔˈ bɛlzi/",
+  "pronunciation": "/zuˈli bɛlˈzi/",
   "type": "noun",
-  "word": "zulo belzi",
+  "word": "zuli belzi",
 }
 `;
 
@@ -27788,12 +27788,12 @@ Object {
 
 exports[`Should buildDictionary for:  word: zuzenbidezko estatu type: noun meanings: constitutional state, a state based on law 1`] = `
 Object {
-  "audio": "[🍕](http://ipa-reader.xyz/?text=zuz%C9%9Bnbid%C9%9Bzk%C9%94%20%C9%9Bs%CB%88t%CC%AA%C9%91t%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=zuz%C9%9Bnbid%C9%9Bzk%C9%94%20%C9%9Bs%CB%88t%CC%AA%C9%91t%CC%AAi&voice=Jan)",
+  "audio": "[🍕](http://ipa-reader.xyz/?text=zuz%C9%9Bnbi%CB%88d%C9%9Bzki%20%C9%9Bs%CB%88t%CC%AA%C9%91t%CC%AAi&voice=Giorgio) [🍸](http://ipa-reader.xyz/?text=zuz%C9%9Bnbi%CB%88d%C9%9Bzki%20%C9%9Bs%CB%88t%CC%AA%C9%91t%CC%AAi&voice=Jan)",
   "meanings": "constitutional state, a state based on law",
   "originWord": "zuzenbidezko estatu",
-  "pronunciation": "/zuzɛnbidɛzkɔ ɛsˈt̪ɑt̪i/",
+  "pronunciation": "/zuzɛnbiˈdɛzki ɛsˈt̪ɑt̪i/",
   "type": "noun",
-  "word": "zuzenbidezko estati",
+  "word": "zuzenbidezki estati",
 }
 `;
 
