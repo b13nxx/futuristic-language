@@ -11,7 +11,7 @@ const WordProcessor = {
   },
 
   transformWord (word: string, type: DefinitionTypes): string {
-    return WordProcessor.replaceCumulative(word, getPhonoTactics(type))
+    return WordProcessor.replaceCumulative(word, getPhonoTactics(type)).trim()
   },
 
   getPronunciation (word: string): string {
